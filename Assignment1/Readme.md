@@ -106,6 +106,12 @@ We created 5 Dashboards for the below Themes -
 • Recommendations
 • Monthly Pricing and Insights
 
+![Monthly pricing Insights](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment1/Monthly_Pricing_Sales_Insights.png)
+
+![Recommendations](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment1/Ecommerce_Sales_Dashboard%20(1).png)
+
+
+
 You can generate your own insights as well based on your understanding of the data. Or you can also generate/use additional datasets 
 which might have details for promotional campaigns. These insights and Datasets can be further used to build 
 prediction models for forcasting LTV, prices, Sales, Recommendations etc. 
