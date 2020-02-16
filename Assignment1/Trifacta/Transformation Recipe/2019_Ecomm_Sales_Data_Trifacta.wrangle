@@ -1,0 +1,21 @@
+rename type: manual mapping: [column2,'Index']
+textformat col: event_type,category_code,brand type: propercase
+splitpatterns col: event_time type: on on: ' '
+rename type: manual mapping: [event_time1,'event_date']
+splitpatterns col: event_time2 type: on on: ' '
+rename type: manual mapping: [event_time1,'event_time']
+rename type: manual mapping: [event_time3,'event_timezone']
+derive type: single value: HOUR(event_time) as: 'event_hour'
+splitpatterns col: category_code type: on on: '.'
+rename type: manual mapping: [category_code1,'category']
+splitpatterns col: category_code2 type: on on: '.'
+rename type: manual mapping: [category_code1,'sub_category1']
+rename type: manual mapping: [category_code3,'sub_category2']
+set col: sub_category2 value: IFMISSING($col, sub_category1)
+dateformat col: event_date type: custom format: 'yyyy-MM-dd'
+derive type: single value: WEEKDAY(event_date) as: 'DayofWeek'
+derive type: single value: IF(DayofWeek == 1, 'Monday', IF(DayofWeek == 2, 'Tuesday', IF(DayofWeek == 3, 'Wednesday', IF(DayofWeek == 4, 'Thursday', IF(DayofWeek == 5, 'Friday', IF(DayofWeek == 6, 'Saturday', 'Sunday')))))) as: 'Day_of_Week'
+drop col: DayofWeek action: Drop
+join with: 2019_user_details.csv col: user_id = current_dataset.user_id, user_id1 = 2019_user_details.csv.user_id, Index = current_dataset.Index, event_date = current_dataset.event_date, Day_of_Week = current_dataset.Day_of_Week, event_time = current_dataset.event_time, event_hour = current_dataset.event_hour, event_timezone = current_dataset.event_timezone, event_type = current_dataset.event_type, product_id = current_dataset.product_id, category_id = current_dataset.category_id, category = current_dataset.category, sub_category1 = current_dataset.sub_category1, sub_category2 = current_dataset.sub_category2, brand = current_dataset.brand, price = current_dataset.price, user_session = current_dataset.user_session, State = 2019_user_details.csv.State, User_Score = 2019_user_details.csv.User_Score row: current_dataset.user_id == 2019_user_details.csv.user_id type: left
+drop col: user_id1 action: Drop
+drop col: Index action: Drop
