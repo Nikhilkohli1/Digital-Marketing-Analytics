@@ -17,7 +17,7 @@ Dataset consists of features like Sales, TVSales, TVRadio Sales, Adstock Values 
 We also have TV and Radio Spending o Advertisements for each week. 
 We are also given a Temperature information which can be used to model seasonality. 
 
-![MMM](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment3/Images/Mark_mix.PNG)
+![MMM](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment3/Images/Mark_mix.jpg)
 
 ## AdStock Effect
 
