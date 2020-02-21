@@ -17,6 +17,8 @@ Dataset consists of features like Sales, TVSales, TVRadio Sales, Adstock Values 
 We also have TV and Radio Spending o Advertisements for each week. 
 We are also given a Temperature information which can be used to model seasonality. 
 
+![MMM](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment3/Images/Capture.PNG)
+
 ## AdStock Effect
 
 AdStock effect is the prolonged or lagged effect of advertising on consumer purchase behavior
@@ -40,7 +42,9 @@ This is the impact of past advertisement on present sales. It is also called Dec
 	
 let us denote the intensity of the channel activity measured in dollars spent or the number of messages in time period t as Xt, the business metric of interest, often the sales volume or revenue, as yt, and the current effect induced by the activity on the business metric as at. The effect variable at is called the adstock. The adstock model assumption can then be expressed as - 
 
-										AdStock(time=t) = Xt + λ * (AdStock(time=t-1)
+		AdStock(time=t) = Xt + λ * (AdStock(time=t-1)
+
+![Formula](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment3/Images/Capture.PNG)
 
 
 You can Run the Steps described below to View/Replicate the outcome of the tasks. 
@@ -52,13 +56,14 @@ You can Run the Steps described below to View/Replicate the outcome of the tasks
 
 3. This notebook includes the Univariate Analysis and Multivariate Analysis. Then we model the Adstock effects using Marketing Mix Modeling 
  in 2 ways 
- - Linear Regression using Ordinary Least Squares method
- - Numerical Approximation Method
+ 	- Linear Regression using Ordinary Least Squares method
+ 	- Numerical Approximation Method
  
  
 4. Use the output generated - 'MMM_Adstock_TV_Radio_Modeling.csv'
 We uploaded this to salesforce Einstein Analytics and Created An App > Dataset > DataFlow > Dashboard 
 
+![Dashboard](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment3/DashBoard/Adstock.png)
 
 
 You can generate your own insights as well based on your understanding of the data. 
