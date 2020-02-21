@@ -27,4 +27,9 @@ CLAAT document link - https://docs.google.com/document/d/1BoSlam9Pp4LPUwb88Hmeil
 CLAAT Preview Link - https://codelabs-preview.appspot.com/?file_id=1BoSlam9Pp4LPUwb88HmeilAvCu6RH2-b8ECv4c8M0NM#3
 
 
+### Dashbaord - Assignment 2
 ![Dashbaord](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment1/Ecommerce_Sales_Dashboard.png)
+
+### Dashbaord - Assignment 3
+![Dashboard](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment3/DashBoard/Adstock.png)
+
