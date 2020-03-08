@@ -63,9 +63,8 @@ to optimize the Budget Allocation using the history data to calculate Return on 
 
 We also create a Dashbaord using Panel to summarize our insights and model outcomes. 
 
-![Dashboard1](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment3_Attribution_Modeling/Dashboard1.PNG)
+![Dashboard1](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment3_Attribution_Modeling/Panel%20Dashboard/Dash1.PNG)
 
-![Dashboard2](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment3_Attribution_Modeling/Dashboard2.PNG)
-
+![Dashboard2](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment3_Attribution_Modeling/Panel%20Dashboard/Dash2.PNG)
 
 
