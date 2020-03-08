@@ -36,6 +36,13 @@ CLAAT Preview Link - https://codelabs-preview.appspot.com/?file_id=1BoSlam9Pp4LP
 ### Dashbaord - Assignment 2
 ![Dashbaord](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment1/Ecommerce_Sales_Dashboard.png)
 
-### Dashbaord - Assignment 3
+### Dashbaord - Assignment 3 Part 1
 ![Dashboard](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment3/DashBoard/Adstock.png)
+
+### Dashboard - Assignment 3 Part 2
+
+![Dashboard1](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment3_Attribution_Modeling/Panel%20Dashboard/Dash1.PNG)
+
+![Dashboard2](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment3_Attribution_Modeling/Panel%20Dashboard/Dash2.PNG)
+
 
