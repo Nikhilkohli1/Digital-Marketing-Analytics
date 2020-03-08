@@ -1,7 +1,5 @@
 # INFO7374DigitalMarketingAnalytics
-
-        Team 2 
-        
+ 
         
    ### Assignment 1 - Analysis of Digital Marketing Mix of VistaPrint 
 
@@ -20,11 +18,19 @@ CLAAT document link - https://docs.google.com/document/d/1vqdOtfYADITw0em9_nDmxX
 
 CLAAT Preview Link - https://codelabs-preview.appspot.com/?file_id=1vqdOtfYADITw0em9_nDmxXO1-Eci66TrX2nyiMPHoNk#0
 
-   ### Assignment 3 - Understanding Promotions & AdStock
+   ### Assignment 3 Part 1 - Understanding Promotions & AdStock
 
 CLAAT document link - https://docs.google.com/document/d/1BoSlam9Pp4LPUwb88HmeilAvCu6RH2-b8ECv4c8M0NM/edit#
 
 CLAAT Preview Link - https://codelabs-preview.appspot.com/?file_id=1BoSlam9Pp4LPUwb88HmeilAvCu6RH2-b8ECv4c8M0NM#3
+
+
+   ### Assignment 3 Part 2 - Attribution Modeling & Budget Optimization
+
+CLAAT document link - https://docs.google.com/document/d/1BoSlam9Pp4LPUwb88HmeilAvCu6RH2-b8ECv4c8M0NM/edit#
+
+CLAAT Preview Link - https://codelabs-preview.appspot.com/?file_id=1BoSlam9Pp4LPUwb88HmeilAvCu6RH2-b8ECv4c8M0NM#0
+
 
 
 ### Dashbaord - Assignment 2
