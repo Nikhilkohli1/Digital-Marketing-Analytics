@@ -27,10 +27,15 @@ Cat1-Cat9: categorical features associated with the ad. These features' semantic
 
 Attribution modeling is a framework for analyzing which touchpoints, or marketing channels, receive credit for a conversion. Each attribution model distributes the value of a conversion across each touchpoint differently. A model comparison tool allows you to analyze how each model distributes the value of a conversion. There are six common attribution models: First Interaction, Last Interaction, Last Non-Direct Click, Linear, Time-Decay, and Position-Based.
 
+
+![Attribution Modeling](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment3_Attribution_Modeling/Panel%20Dashboard/images/theme.PNG)
+
 By analyzing each attribution model, one can get a better idea of the ROI for each marketing channel/campaign.
 
+![Models](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment3_Attribution_Modeling/Panel%20Dashboard/images/Model%20Comaprision.JPG)
 
-Types of Marketing Models - 
+
+Types of Marketing Models we will be implementing- 
 
 1. Single Touch Attribution Models:
 - Last touch Attribution
@@ -54,6 +59,13 @@ Types of Marketing Models -
 We have implemented 10 models to compare and see which works best for us and validate our claim using Simulation algorithm
 to optimize the Budget Allocation using the history data to calculate Return on Investment. 
 
+### Dashbaord -
+
 We also create a Dashbaord using Panel to summarize our insights and model outcomes. 
+
+![Dashboard1](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment3_Attribution_Modeling/Dashboard1.PNG)
+
+![Dashboard2](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment3_Attribution_Modeling/Dashboard2.PNG)
+
 
 
