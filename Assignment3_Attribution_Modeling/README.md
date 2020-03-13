@@ -6,6 +6,7 @@ CLAAT document link - https://docs.google.com/document/d/1BoSlam9Pp4LPUwb88Hmeil
 
 CLAAT Preview Link - https://codelabs-preview.appspot.com/?file_id=1BoSlam9Pp4LPUwb88HmeilAvCu6RH2-b8ECv4c8M0NM#0
 
+Medium Article - https://medium.com/@nikhilkohli1992/understanding-attribution-modeling-budget-optimization-in-digital-marketing-using-python-8d145e0db2b
 
 Description - 
 
