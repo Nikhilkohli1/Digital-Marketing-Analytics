@@ -32,6 +32,14 @@ CLAAT document link - https://docs.google.com/document/d/1BoSlam9Pp4LPUwb88Hmeil
 CLAAT Preview Link - https://codelabs-preview.appspot.com/?file_id=1BoSlam9Pp4LPUwb88HmeilAvCu6RH2-b8ECv4c8M0NM#0
 
 
+### Assignment 4 - Recommendation System (xDeepFM & Customer2Vec) 
+
+CLAAT Document - https://docs.google.com/document/d/18zaAjqPpA-ewZaGBHoPhRu6nFrp9PDiM-q-zhjWkNgM/edit#heading=h.ax8bqte2btx2
+
+CLAAT Preview Link - https://codelabs-preview.appspot.com/?file_id=18zaAjqPpA-ewZaGBHoPhRu6nFrp9PDiM-q-zhjWkNgM#0
+
+
+
 
 ### Dashbaord - Assignment 2
 ![Dashbaord](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment2/Ecommerce_Sales_Dashboard%20(1).png)
