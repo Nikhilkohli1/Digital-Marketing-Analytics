@@ -59,8 +59,9 @@ The data we used here is based on Instacart market basket data. It has informati
 
 We also create a Dashbaord using Streamlit to summarize our insights and model outcomes. 
 
-![Dashboard1](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment4/Images/search.PNG)
+![Dashboard1](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment4/Images/cust2vec.PNG)
 
-![Dashboard2](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment4/Images/xDeepfmmodel.PNG)
+![Dashboard2](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment4/Images/plotly.PNG)
 
+![Dashboard3](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment4/Images/search.PNG)
 
