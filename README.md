@@ -40,6 +40,13 @@ CLAAT Preview Link - https://codelabs-preview.appspot.com/?file_id=18zaAjqPpA-ew
 
 ### Final Project Olist Marketing Analytics: RFM & Pursuasion Modeling, Customer Segmentation & Upselling, Targeted Recommendations
 
+Olist Streamlit Analytics Dashboard - https://olist-streamlit-dashboard.herokuapp.com/
+
+Recommendation Webapp - https://olist-marketing-analytics.herokuapp.com/
+
+Marketing Dashboard - https://prod-useast-a.online.tableau.com/#/site/mohodhruda/views/OlistMarketingDashboard/Dashboard
+
+(Credentials to access Marketing Dashboard- Username: mohod.h@husky.neu.edu Password : Tableau1!)
 
 CLAAT Document - https://docs.google.com/document/d/1BoSlam9Pp4LPUwb88HmeilAvCu6RH2-b8ECv4c8M0NM/edit#heading=h.ax8bqte2btx2
 
@@ -61,4 +68,6 @@ CLAAT Preview Link - https://codelabs-preview.appspot.com/?file_id=1BoSlam9Pp4LP
 
 ![Dashboard2](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment3_Attribution_Modeling/Panel%20Dashboard/Dash2.PNG)
 
+### Dashbaord - Final Project 
 
+![Streamlit2](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/Images/Dash3.JPG)
