@@ -99,6 +99,9 @@ We show Popular Products by current month for new customers.
 
 ## Dashboards - 
 
+![Streamlit2](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/Images/Dash3.JPG)
+
+![Streamlit1](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/Images/StreamDash1.PNG)
 
 ![Social1](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/Images/streaming.png)
 
