@@ -1,0 +1,9 @@
+Customer Segment,Recency,Frequency,Monetary,Monetary,Marketing Action
+,mean,mean,mean,count,unique
+Champions Big Spenders,160.5,2.8,816.2,1563,['Upsell most expensive items']
+Hibernating - Almost Lost,349.1,1.4,188.0,2541,['Aggressive price incentives']
+Lost Customers,298.5,1.2,78.2,6856,"[""Don't spend too much trying to re-acquire""]"
+Loyal Customers,148.6,3.2,319.8,5335,['Loyality programs;Cross Sell']
+Needs Attention,245.6,1.8,241.5,3735,['Price incentives and Limited time offer']
+Potential Loyalists,102.8,1.6,279.4,11492,['Cross Sell Recommendations and Discount coupons']
+VVIP - Can't Loose Them,61.6,4.0,716.5,9909,['No Price Incentives; Offer Limited edition and Loyality programs']

@@ -1,0 +1,518 @@
+Customer State,Review Score,Purchase Timestamp,Purchase Date,Monetary,Customer Segment,Marketing Action,Customer_ID,Order_ID,Product_ID,product_name,aisle,department,Product Category,latent_cluster
+MG,5,2017-05-25 23:53:14,2017-05-25 00:00:00,306.4,Loyal Customers,Loyality programs;Cross Sell,31695,36315,852,Light String Cheese,packaged cheese,dairy eggs,packaged cheese,3.0
+ES,3,2017-06-15 19:56:15,2017-06-15 00:00:00,451.47,Loyal Customers,Loyality programs;Cross Sell,4133,55516,32134,Protein,yogurt,dairy eggs,Protein,2.0
+SP,1,2017-08-24 07:15:30,2017-08-24 00:00:00,440.94,Loyal Customers,Loyality programs;Cross Sell,12672,72401,29705,Perfumes,candy chocolate,snacks,Perfumes,2.0
+SP,4,2017-11-24 12:59:43,2017-11-24 00:00:00,440.94,Loyal Customers,Loyality programs;Cross Sell,12672,41251,6927,Signature Twin Size Mattress,packaged vegetables fruits,produce,Signature Mattress,2.0
+SC,5,2017-07-19 15:33:18,2017-07-19 00:00:00,437.4,Loyal Customers,Loyality programs;Cross Sell,37845,5457,6927,Signature Twin Size Mattress,packaged vegetables fruits,produce,Signature Mattress,2.0
+SC,4,2017-10-09 11:40:18,2017-10-09 00:00:00,437.4,Loyal Customers,Loyality programs;Cross Sell,37845,49381,6927,Signature Twin Size Mattress,packaged vegetables fruits,produce,Signature Mattress,2.0
+SP,5,2017-12-01 14:05:44,2017-12-01 00:00:00,320.0300000000001,Loyal Customers,Loyality programs;Cross Sell,5956,60499,6927,Signature Twin Size Mattress,packaged vegetables fruits,produce,Signature Mattress,2.0
+SP,5,2017-03-15 23:17:08,2017-03-15 00:00:00,440.94,Loyal Customers,Loyality programs;Cross Sell,12672,86349,16929,Dried Shiitake Mushrooms,more household,household,more household,2.0
+SP,5,2017-07-18 08:52:42,2017-07-18 00:00:00,440.94,Loyal Customers,Loyality programs;Cross Sell,12672,44176,22511,Plain Breadsticks,crackers,snacks,crackers,2.0
+SP,1,2017-07-18 08:52:42,2017-07-18 00:00:00,440.94,Loyal Customers,Loyality programs;Cross Sell,12672,44176,22511,Plain Breadsticks,crackers,snacks,crackers,2.0
+SP,5,2017-12-04 11:02:18,2017-12-04 00:00:00,440.94,Loyal Customers,Loyality programs;Cross Sell,12672,52814,25850,Vegan Low Fat Spicy Southwestern Ranch Salad Dressing,salad dressing toppings,pantry,salad dressing toppings,2.0
+SP,5,2017-08-18 06:47:24,2017-08-18 00:00:00,435.18,Loyal Customers,Loyality programs;Cross Sell,32807,38109,16158,Shredded Steak & Cheese Burrito,frozen meals,frozen,frozen meals,0.0
+MG,4,2017-10-16 12:38:07,2017-10-16 00:00:00,435.28,Loyal Customers,Loyality programs;Cross Sell,22472,35943,29724,Chorizo Hemp Soy-Free Tofu,tofu meat alternatives,deli,tofu meat alternatives,5.0
+SP,5,2017-12-14 09:47:41,2017-12-14 00:00:00,387.43,Loyal Customers,Loyality programs;Cross Sell,20920,58464,14622,Plug In Scented Oil Refills - Blue Odyssey,air fresheners candles,household,air fresheners candles,4.0
+SP,3,2017-04-25 22:50:48,2017-04-25 00:00:00,348.91,Loyal Customers,Loyality programs;Cross Sell,12193,6221,14913,Crunchy Breaded Fish Fillets,frozen meat seafood,frozen,frozen meat seafood,0.0
+MG,5,2018-03-27 01:27:37,2018-03-27 00:00:00,272.76,Loyal Customers,Loyality programs;Cross Sell,34471,15779,10603,93% Ground Beef,meat counter,meat seafood,meat counter,6.0
+SP,3,2017-12-17 18:40:32,2017-12-17 00:00:00,398.70000000000016,Loyal Customers,Loyality programs;Cross Sell,29979,39826,10603,93% Ground Beef,meat counter,meat seafood,meat counter,6.0
+MG,5,2018-01-29 20:04:32,2018-01-29 00:00:00,435.28,Loyal Customers,Loyality programs;Cross Sell,22472,40203,10603,93% Ground Beef,meat counter,meat seafood,meat counter,5.0
+SP,5,2017-07-21 22:39:25,2017-07-21 00:00:00,297.39,Loyal Customers,Loyality programs;Cross Sell,3273,67123,10603,93% Ground Beef,meat counter,meat seafood,meat counter,6.0
+SP,3,2018-01-25 14:37:02,2018-01-25 00:00:00,429.38,Loyal Customers,Loyality programs;Cross Sell,39071,36641,24399,Pain Reliever and Fever Reducer Ibuprofen 200mg,muscles joints pain relief,personal care,muscles joints pain relief,0.0
+SP,4,2017-11-07 19:32:45,2017-11-07 00:00:00,424.21,Loyal Customers,Loyality programs;Cross Sell,526,857,8924,Organic Uber Green,energy sports drinks,beverages,energy sports drinks,3.0
+MG,4,2018-01-13 17:03:25,2018-01-13 00:00:00,424.99,Loyal Customers,Loyality programs;Cross Sell,32144,28650,26445,Asiago Cheese Ciabatta Croutons,salad dressing toppings,pantry,salad dressing toppings,0.0
+PA,4,2017-09-12 14:23:59,2017-09-12 00:00:00,569.55,Loyal Customers,Loyality programs;Cross Sell,24051,16524,26445,Asiago Cheese Ciabatta Croutons,salad dressing toppings,pantry,salad dressing toppings,0.0
+MG,5,2018-02-18 19:31:45,2018-02-18 00:00:00,410.28000000000014,Loyal Customers,Loyality programs;Cross Sell,9517,77644,26445,Asiago Cheese Ciabatta Croutons,salad dressing toppings,pantry,salad dressing toppings,3.0
+SP,4,2017-11-23 11:04:31,2017-11-23 00:00:00,348.91,Loyal Customers,Loyality programs;Cross Sell,12193,28494,16813,Gluten Free Soft Taco,tortillas flat bread,bakery,tortillas flat bread,0.0
+MG,3,2017-07-19 14:38:39,2017-07-19 00:00:00,393.38,Loyal Customers,Loyality programs;Cross Sell,13895,54493,10766,Wholesome Gluten Free Flour,baking ingredients,pantry,baking ingredients,2.0
+MG,5,2018-02-20 12:55:55,2018-02-20 00:00:00,375.72,Loyal Customers,Loyality programs;Cross Sell,17456,5122,20534,Whole Kernel Golden Corn,canned jarred vegetables,canned goods,canned jarred vegetables,1.0
+SP,5,2017-03-28 22:42:18,2017-03-28 00:00:00,269.5,Loyal Customers,Loyality programs;Cross Sell,23326,32521,20534,Whole Kernel Golden Corn,canned jarred vegetables,canned goods,canned jarred vegetables,6.0
+SP,3,2017-02-19 21:58:48,2017-02-19 00:00:00,264.14,Loyal Customers,Loyality programs;Cross Sell,19114,34442,2023,Organic Stawberry Shortcake Sandwich Cookies,cookies cakes,snacks,cookies cakes,4.0
+SC,4,2017-08-08 19:41:52,2017-08-08 00:00:00,401.92,Loyal Customers,Loyality programs;Cross Sell,19794,35648,12178,Maximum Hydration 3-in-1 Body Wash,body lotions soap,personal care,body lotions soap,2.0
+RS,5,2017-08-09 13:17:28,2017-08-09 00:00:00,667.61,Loyal Customers,Loyality programs;Cross Sell,38852,35527,12178,Maximum Hydration 3-in-1 Body Wash,body lotions soap,personal care,body lotions soap,2.0
+MG,5,2017-05-21 22:38:51,2017-05-21 00:00:00,408.36,Loyal Customers,Loyality programs;Cross Sell,29011,75657,12178,Maximum Hydration 3-in-1 Body Wash,body lotions soap,personal care,body lotions soap,2.0
+SP,5,2017-04-08 16:23:45,2017-04-08 00:00:00,372.95,Loyal Customers,Loyality programs;Cross Sell,10150,96112,4721,Smoked White Turkey Franks,hot dogs bacon sausage,meat seafood,hot dogs bacon sausage,2.0
+SP,3,2017-11-07 23:18:59,2017-11-07 00:00:00,427.38,Loyal Customers,Loyality programs;Cross Sell,38225,62442,4721,Smoked White Turkey Franks,hot dogs bacon sausage,meat seafood,hot dogs bacon sausage,0.0
+RJ,4,2017-11-26 09:30:30,2017-11-26 00:00:00,590.01,Loyal Customers,Loyality programs;Cross Sell,8502,70007,7943,Hand Luggage,missing,missing,Hand Luggage,4.0
+RJ,4,2017-02-06 19:47:10,2017-02-06 00:00:00,326.5,Loyal Customers,Loyality programs;Cross Sell,36719,63671,4948,Diet Green Tea,tea,beverages,tea,6.0
+MG,5,2018-01-03 09:14:25,2018-01-03 00:00:00,375.72,Loyal Customers,Loyality programs;Cross Sell,17456,12145,30589,Soy Ginger Sauce,asian foods,international,asian foods,1.0
+SP,5,2018-03-06 12:25:04,2018-03-06 00:00:00,307.98,Loyal Customers,Loyality programs;Cross Sell,20930,32276,17289,Natural Powder Long Lasting Deodorant,deodorants,personal care,deodorants,2.0
+SP,3,2018-04-17 00:15:04,2018-04-17 00:00:00,150.57,Loyal Customers,Loyality programs;Cross Sell,36385,76869,17289,Natural Powder Long Lasting Deodorant,deodorants,personal care,deodorants,2.0
+PE,4,2018-01-21 23:39:13,2018-01-21 00:00:00,427.98,Loyal Customers,Loyality programs;Cross Sell,32100,88385,17289,Natural Powder Long Lasting Deodorant,deodorants,personal care,deodorants,5.0
+SP,5,2018-03-06 14:58:36,2018-03-06 00:00:00,333.23,Loyal Customers,Loyality programs;Cross Sell,697,57475,869,Organic Mango Mania ZFruit and Veggie Rope,energy granola bars,snacks,energy granola bars,6.0
+PE,4,2018-01-31 23:19:49,2018-01-31 00:00:00,427.98,Loyal Customers,Loyality programs;Cross Sell,32100,86934,869,Organic Mango Mania ZFruit and Veggie Rope,energy granola bars,snacks,energy granola bars,5.0
+SP,1,2017-03-12 15:34:47,2017-03-12 00:00:00,398.06,Loyal Customers,Loyality programs;Cross Sell,32767,21413,22188,Chicken Parmesan Home Style Meal,frozen meals,frozen,frozen meals,4.0
+MG,5,2018-01-31 22:53:05,2018-01-31 00:00:00,405.82,Loyal Customers,Loyality programs;Cross Sell,22762,90447,28856,Refresh Ginger Ale Soda,soft drinks,beverages,soft drinks,3.0
+RS,1,2018-02-27 15:53:06,2018-02-27 00:00:00,378.59,Loyal Customers,Loyality programs;Cross Sell,19371,44123,28856,Refresh Ginger Ale Soda,soft drinks,beverages,soft drinks,3.0
+SP,1,2017-05-10 13:20:12,2017-05-10 00:00:00,322.24000000000007,Loyal Customers,Loyality programs;Cross Sell,22010,3819,28448,Dry Roasted Unsalted Peanuts,nuts seeds dried fruit,snacks,nuts seeds dried fruit,0.0
+SP,5,2017-10-17 15:58:05,2017-10-17 00:00:00,187.1,Loyal Customers,Loyality programs;Cross Sell,19420,19792,26240,Maki Rolls,asian foods,international,asian foods,0.0
+RJ,1,2018-03-09 15:01:01,2018-03-09 00:00:00,257.58,Loyal Customers,Loyality programs;Cross Sell,40827,83536,26240,Maki Rolls,asian foods,international,asian foods,0.0
+SP,2,2017-08-14 18:20:04,2017-08-14 00:00:00,249.45,Loyal Customers,Loyality programs;Cross Sell,24341,35721,26240,Maki Rolls,asian foods,international,asian foods,0.0
+SP,5,2017-11-18 23:07:50,2017-11-18 00:00:00,391.43,Loyal Customers,Loyality programs;Cross Sell,32151,90029,26240,Maki Rolls,asian foods,international,asian foods,0.0
+RS,5,2017-06-12 16:35:49,2017-06-12 00:00:00,411.62,Loyal Customers,Loyality programs;Cross Sell,3425,58728,17163,Vitamin A & D Fat Free Milk,milk,dairy eggs,milk,1.0
+SP,4,2017-05-31 21:21:27,2017-05-31 00:00:00,175.06,Loyal Customers,Loyality programs;Cross Sell,24599,88796,17163,Vitamin A & D Fat Free Milk,milk,dairy eggs,milk,0.0
+SP,5,2017-02-12 15:12:20,2017-02-12 00:00:00,249.45,Loyal Customers,Loyality programs;Cross Sell,24341,44689,1929,Signature Twin Size Mattress,packaged vegetables fruits,produce,Signature Mattress,0.0
+SP,1,2018-03-13 15:57:08,2018-03-13 00:00:00,247.07,Loyal Customers,Loyality programs;Cross Sell,17270,85570,185,Chicken Nugget Meal,frozen meals,frozen,frozen meals,3.0
+SP,5,2017-12-15 10:50:55,2017-12-15 00:00:00,333.05,Loyal Customers,Loyality programs;Cross Sell,31555,57585,13108,"Vegetable Oil, Pure & 100% Natural",oils vinegars,pantry,oils vinegars,4.0
+ES,1,2017-05-26 19:26:32,2017-05-26 00:00:00,394.73,Loyal Customers,Loyality programs;Cross Sell,19021,44497,6311,PS Genoa Salami,lunch meat,deli,lunch meat,0.0
+SP,5,2017-11-24 11:27:12,2017-11-24 00:00:00,247.07,Loyal Customers,Loyality programs;Cross Sell,17270,7571,14959,Decaffeinated Earl Grey Tea,tea,beverages,tea,3.0
+ES,4,2017-12-06 22:54:33,2017-12-06 00:00:00,427.8,Loyal Customers,Loyality programs;Cross Sell,22181,63369,14959,Decaffeinated Earl Grey Tea,tea,beverages,tea,3.0
+ES,5,2017-09-26 17:26:33,2017-09-26 00:00:00,360.09000000000015,Loyal Customers,Loyality programs;Cross Sell,16980,65227,14959,Decaffeinated Earl Grey Tea,tea,beverages,tea,3.0
+SP,5,2018-07-30 07:41:38,2018-07-30 00:00:00,232.88,Loyal Customers,Loyality programs;Cross Sell,37034,39314,13125,Hand Luggage,missing,missing,Hand Luggage,4.0
+SP,4,2018-03-15 14:19:11,2018-03-15 00:00:00,435.18,Loyal Customers,Loyality programs;Cross Sell,32807,70900,31288,Protein,yogurt,dairy eggs,Protein,0.0
+MG,5,2018-02-23 17:00:31,2018-02-23 00:00:00,400.20000000000016,Loyal Customers,Loyality programs;Cross Sell,18072,50603,5318,Organic Ginger Beet Kraut,pickled goods olives,pantry,pickled goods olives,6.0
+DF,5,2017-09-25 20:14:02,2017-09-25 00:00:00,444.66,Loyal Customers,Loyality programs;Cross Sell,33509,36540,15747,High Protein Vanilla Shake,protein meal replacements,personal care,protein meal replacements,5.0
+SP,3,2018-03-26 22:13:21,2018-03-26 00:00:00,259.98,Loyal Customers,Loyality programs;Cross Sell,13339,1065,15747,High Protein Vanilla Shake,protein meal replacements,personal care,protein meal replacements,2.0
+SP,3,2018-04-02 13:55:42,2018-04-02 00:00:00,208.56,Loyal Customers,Loyality programs;Cross Sell,25009,4843,15747,High Protein Vanilla Shake,protein meal replacements,personal care,protein meal replacements,2.0
+SP,5,2018-03-21 17:36:37,2018-03-21 00:00:00,277.22,Loyal Customers,Loyality programs;Cross Sell,15769,11767,15747,High Protein Vanilla Shake,protein meal replacements,personal care,protein meal replacements,2.0
+SP,5,2017-01-31 17:15:33,2017-01-31 00:00:00,308.0900000000001,Loyal Customers,Loyality programs;Cross Sell,37754,41809,15747,High Protein Vanilla Shake,protein meal replacements,personal care,protein meal replacements,2.0
+SP,5,2017-07-17 22:44:24,2017-07-17 00:00:00,396.08,Loyal Customers,Loyality programs;Cross Sell,32344,74342,15747,High Protein Vanilla Shake,protein meal replacements,personal care,protein meal replacements,2.0
+SP,3,2017-07-17 22:44:24,2017-07-17 00:00:00,396.08,Loyal Customers,Loyality programs;Cross Sell,32344,74342,15747,High Protein Vanilla Shake,protein meal replacements,personal care,protein meal replacements,2.0
+DF,5,2017-06-05 22:54:29,2017-06-05 00:00:00,347.21000000000015,Loyal Customers,Loyality programs;Cross Sell,6999,15899,23463,Facial Oil,skin care,personal care,skin care,4.0
+RJ,5,2017-07-02 12:59:35,2017-07-02 00:00:00,456.27,Loyal Customers,Loyality programs;Cross Sell,30878,5756,27609,Natural Sweetened Wheat-Fuls Cereal,cereal,breakfast,cereal,6.0
+SP,5,2018-07-06 21:47:02,2018-07-06 00:00:00,243.55,Loyal Customers,Loyality programs;Cross Sell,4999,18824,16530,Lemon Ginger Echinacea Beverage,juice nectars,beverages,juice nectars,4.0
+SP,5,2018-02-10 09:04:40,2018-02-10 00:00:00,351.89,Loyal Customers,Loyality programs;Cross Sell,4267,80780,8575,Unprocessed American Singles Colby-Style Cheese,packaged cheese,dairy eggs,packaged cheese,1.0
+SP,1,2017-10-29 20:18:46,2017-10-29 00:00:00,441.73,Loyal Customers,Loyality programs;Cross Sell,30598,42468,8575,Unprocessed American Singles Colby-Style Cheese,packaged cheese,dairy eggs,packaged cheese,6.0
+SP,4,2017-10-19 21:47:37,2017-10-19 00:00:00,442.68,Loyal Customers,Loyality programs;Cross Sell,26116,35612,6827,Imported Beer Bottles,Snakku,alcohol,Snakku,1.0
+SP,3,2017-07-20 05:01:48,2017-07-20 00:00:00,408.69000000000005,Loyal Customers,Loyality programs;Cross Sell,10774,58357,6827,Imported Beer Bottles,Snakku,alcohol,Snakku,1.0
+SP,5,2017-10-09 13:13:08,2017-10-09 00:00:00,351.89,Loyal Customers,Loyality programs;Cross Sell,4267,58700,6827,Imported Beer Bottles,Snakku,alcohol,Snakku,1.0
+MG,5,2017-09-03 16:57:48,2017-09-03 00:00:00,365.94,Loyal Customers,Loyality programs;Cross Sell,30639,65697,6827,Imported Beer Bottles,Snakku,alcohol,Snakku,1.0
+SP,5,2017-07-14 16:29:06,2017-07-14 00:00:00,424.44,Loyal Customers,Loyality programs;Cross Sell,16979,72151,6827,Imported Beer Bottles,Snakku,alcohol,Snakku,1.0
+SP,1,2017-10-29 15:26:18,2017-10-29 00:00:00,337.34,Loyal Customers,Loyality programs;Cross Sell,30692,15876,5566,Signature Twin Size Mattress,packaged vegetables fruits,produce,Signature Mattress,3.0
+SP,3,2017-11-07 22:51:12,2017-11-07 00:00:00,322.24000000000007,Loyal Customers,Loyality programs;Cross Sell,22010,84573,5566,Signature Twin Size Mattress,packaged vegetables fruits,produce,Signature Mattress,0.0
+SP,5,2017-10-05 01:00:37,2017-10-05 00:00:00,322.24000000000007,Loyal Customers,Loyality programs;Cross Sell,22010,88077,5566,Signature Twin Size Mattress,packaged vegetables fruits,produce,Signature Mattress,0.0
+SP,5,2018-03-10 16:31:22,2018-03-10 00:00:00,333.23,Loyal Customers,Loyality programs;Cross Sell,697,2112,7883,Jumbo Cotton Balls,beauty,personal care,beauty,6.0
+SP,5,2018-03-06 14:58:36,2018-03-06 00:00:00,333.23,Loyal Customers,Loyality programs;Cross Sell,697,57475,18538,"Salsa, Black Bean",preserved dips spreads,pantry,preserved dips spreads,6.0
+SP,5,2017-11-27 18:30:36,2017-11-27 00:00:00,333.23,Loyal Customers,Loyality programs;Cross Sell,697,29150,13036,Perfumes,candy chocolate,snacks,Perfumes,6.0
+SP,5,2017-03-06 00:54:20,2017-03-06 00:00:00,333.23,Loyal Customers,Loyality programs;Cross Sell,697,62124,8325,"1,000 mg Vitamin C Effervescent Powder Drink Cranberry Each Pak single",juice nectars,beverages,juice nectars,6.0
+SP,5,2017-08-08 18:35:12,2017-08-08 00:00:00,459.57,Loyal Customers,Loyality programs;Cross Sell,4207,92672,24477,Organic Montmorency Dried Cherries,nuts seeds dried fruit,snacks,nuts seeds dried fruit,6.0
+SP,3,2018-04-12 10:57:34,2018-04-12 00:00:00,335.08,Loyal Customers,Loyality programs;Cross Sell,31566,88283,16968,Ranch To Go,salad dressing toppings,pantry,salad dressing toppings,4.0
+MG,1,2018-03-16 19:19:49,2018-03-16 00:00:00,234.31,Loyal Customers,Loyality programs;Cross Sell,34069,66856,22412,HE Turbo Clean Ultra Stain Release Liquid Laundry Detergent,laundry,household,laundry,4.0
+DF,2,2017-11-28 21:50:11,2017-11-28 00:00:00,444.66,Loyal Customers,Loyality programs;Cross Sell,33509,31062,10630,Columbus Applewood Ham 6 oz Shingle,lunch meat,deli,lunch meat,5.0
+PE,1,2018-04-25 22:13:26,2018-04-25 00:00:00,427.98,Loyal Customers,Loyality programs;Cross Sell,32100,10742,10630,Columbus Applewood Ham 6 oz Shingle,lunch meat,deli,lunch meat,5.0
+PR,1,2018-02-16 18:28:11,2018-02-16 00:00:00,389.28,Loyal Customers,Loyality programs;Cross Sell,29197,86657,30412,Jamaican Style Ginger Beer,soft drinks,beverages,soft drinks,6.0
+MG,5,2017-06-18 15:22:24,2017-06-18 00:00:00,424.99,Loyal Customers,Loyality programs;Cross Sell,32144,44551,2732,Gluten Free Pretzel Sticks,chips pretzels,snacks,chips pretzels,0.0
+RJ,5,2017-06-14 19:40:42,2017-06-14 00:00:00,118.01,Loyal Customers,Loyality programs;Cross Sell,13175,66357,2732,Gluten Free Pretzel Sticks,chips pretzels,snacks,chips pretzels,0.0
+PA,5,2017-02-08 23:17:10,2017-02-08 00:00:00,569.55,Loyal Customers,Loyality programs;Cross Sell,24051,80902,2732,Gluten Free Pretzel Sticks,chips pretzels,snacks,chips pretzels,0.0
+SP,4,2017-12-26 08:24:57,2017-12-26 00:00:00,233.48000000000005,Loyal Customers,Loyality programs;Cross Sell,3490,21000,21641,Mixed Nuts Lightly Salted,nuts seeds dried fruit,snacks,nuts seeds dried fruit,3.0
+SP,5,2018-03-30 16:32:37,2018-03-30 00:00:00,337.34,Loyal Customers,Loyality programs;Cross Sell,30692,5578,21641,Mixed Nuts Lightly Salted,nuts seeds dried fruit,snacks,nuts seeds dried fruit,3.0
+GO,1,2018-03-21 21:42:56,2018-03-21 00:00:00,297.1,Loyal Customers,Loyality programs;Cross Sell,28547,9378,21641,Mixed Nuts Lightly Salted,nuts seeds dried fruit,snacks,nuts seeds dried fruit,3.0
+SP,5,2018-02-26 18:19:17,2018-02-26 00:00:00,287.8,Loyal Customers,Loyality programs;Cross Sell,19354,67946,21641,Mixed Nuts Lightly Salted,nuts seeds dried fruit,snacks,nuts seeds dried fruit,3.0
+SP,3,2017-02-19 21:58:48,2017-02-19 00:00:00,264.14,Loyal Customers,Loyality programs;Cross Sell,19114,34442,7130,Free Range Jumbo Eggss,eggs,dairy eggs,eggs,4.0
+MG,4,2018-03-16 09:52:29,2018-03-16 00:00:00,410.94,Loyal Customers,Loyality programs;Cross Sell,29954,33210,10787,Soft Flour Tortillas,tortillas flat bread,bakery,tortillas flat bread,6.0
+ES,4,2018-01-10 22:25:01,2018-01-10 00:00:00,451.47,Loyal Customers,Loyality programs;Cross Sell,4133,25870,10787,Soft Flour Tortillas,tortillas flat bread,bakery,tortillas flat bread,2.0
+PA,5,2017-05-23 22:14:50,2017-05-23 00:00:00,341.4600000000001,Loyal Customers,Loyality programs;Cross Sell,25935,22370,27919,Cherry Blossom Liquid Hand Soap,body lotions soap,personal care,body lotions soap,0.0
+SC,4,2017-11-20 14:20:15,2017-11-20 00:00:00,437.4,Loyal Customers,Loyality programs;Cross Sell,37845,58930,28906,Kale Blazer Juice,Candy Club,beverages,Candy Club,2.0
+MG,5,2018-02-01 16:13:57,2018-02-01 00:00:00,433.5,Loyal Customers,Loyality programs;Cross Sell,18850,4252,23646,Celery Bunch,fresh vegetables,produce,fresh vegetables,0.0
+SP,5,2018-01-25 18:57:01,2018-01-25 00:00:00,158.87,Loyal Customers,Loyality programs;Cross Sell,39651,73074,24533,Pre-Moistened Multi-Surface Everyday Wipes,cleaning products,household,cleaning products,4.0
+SP,5,2018-05-14 10:39:14,2018-05-14 00:00:00,187.1,Loyal Customers,Loyality programs;Cross Sell,19420,58564,13043,Swirl Thick Slice French Toast Bread,bread,bakery,bread,0.0
+SP,3,2018-03-13 21:29:15,2018-03-13 00:00:00,187.1,Loyal Customers,Loyality programs;Cross Sell,19420,11580,12103,Quick Dissolve Superfine Pure Cane Sugar,baking ingredients,pantry,baking ingredients,0.0
+SP,1,2018-04-04 13:47:39,2018-04-04 00:00:00,187.1,Loyal Customers,Loyality programs;Cross Sell,19420,34494,4821,Signature Twin Size Mattress,packaged vegetables fruits,produce,Signature Mattress,0.0
+SP,1,2017-02-06 15:33:57,2017-02-06 00:00:00,187.1,Loyal Customers,Loyality programs;Cross Sell,19420,31528,30387,Chicken Alfredo & Penne Classic Meal for 2,frozen meals,frozen,frozen meals,0.0
+SP,4,2017-06-08 22:23:05,2017-06-08 00:00:00,383.55,Loyal Customers,Loyality programs;Cross Sell,18787,6354,19316,Permanent Hair Color Dark Chestnut Brown 3N,hair care,personal care,hair care,1.0
+MG,5,2018-01-03 09:14:25,2018-01-03 00:00:00,375.72,Loyal Customers,Loyality programs;Cross Sell,17456,12145,19316,Permanent Hair Color Dark Chestnut Brown 3N,hair care,personal care,hair care,1.0
+SP,4,2017-10-19 21:47:37,2017-10-19 00:00:00,442.68,Loyal Customers,Loyality programs;Cross Sell,26116,35612,19316,Permanent Hair Color Dark Chestnut Brown 3N,hair care,personal care,hair care,1.0
+SP,4,2017-05-10 20:04:09,2017-05-10 00:00:00,406.69000000000005,Loyal Customers,Loyality programs;Cross Sell,8921,63052,19316,Permanent Hair Color Dark Chestnut Brown 3N,hair care,personal care,hair care,1.0
+RS,5,2017-08-19 17:54:34,2017-08-19 00:00:00,411.62,Loyal Customers,Loyality programs;Cross Sell,3425,74899,19316,Permanent Hair Color Dark Chestnut Brown 3N,hair care,personal care,hair care,1.0
+SP,5,2018-01-05 09:45:00,2018-01-05 00:00:00,259.98,Loyal Customers,Loyality programs;Cross Sell,13339,37532,13680,Every Woman's One Daily 40+ Multivitamin,vitamins supplements,personal care,vitamins supplements,2.0
+SP,3,2017-11-24 02:14:00,2017-11-24 00:00:00,369.8,Loyal Customers,Loyality programs;Cross Sell,31277,92319,13680,Every Woman's One Daily 40+ Multivitamin,vitamins supplements,personal care,vitamins supplements,3.0
+SP,5,2017-09-03 20:39:02,2017-09-03 00:00:00,332.64,Loyal Customers,Loyality programs;Cross Sell,22715,16660,13680,Every Woman's One Daily 40+ Multivitamin,vitamins supplements,personal care,vitamins supplements,3.0
+SP,4,2017-07-28 14:08:37,2017-07-28 00:00:00,361.48,Loyal Customers,Loyality programs;Cross Sell,5456,11545,432,Vanilla Almond Breeze Almond Milk,soy lactosefree,dairy eggs,soy lactosefree,4.0
+SP,5,2017-07-19 11:54:51,2017-07-19 00:00:00,455.63,Loyal Customers,Loyality programs;Cross Sell,36128,40182,20668,Chocolatey Chip Teddy Grahams,cookies cakes,snacks,cookies cakes,4.0
+RS,5,2018-01-11 12:07:15,2018-01-11 00:00:00,357.1,Loyal Customers,Loyality programs;Cross Sell,6461,26311,14855,Banana Snakaroons,cookies cakes,snacks,cookies cakes,6.0
+SP,5,2017-11-04 12:00:59,2017-11-04 00:00:00,235.3,Loyal Customers,Loyality programs;Cross Sell,35609,59868,7002,"Chicken, Broccoli & Cheddar Frozen Sandwiches",frozen meals,frozen,frozen meals,0.0
+SP,5,2018-02-19 11:58:17,2018-02-19 00:00:00,424.44,Loyal Customers,Loyality programs;Cross Sell,16979,91918,8600,Meat Loaf 30% Less Sodium Seasoning Mix,spices seasonings,pantry,spices seasonings,1.0
+RS,1,2018-02-27 15:53:06,2018-02-27 00:00:00,378.59,Loyal Customers,Loyality programs;Cross Sell,19371,44123,6979,S'mores,energy granola bars,snacks,energy granola bars,3.0
+SP,5,2017-05-23 19:19:31,2017-05-23 00:00:00,440.42,Loyal Customers,Loyality programs;Cross Sell,33382,36640,21499,Natural Chicken Breast Strips,frozen meat seafood,frozen,frozen meat seafood,3.0
+SP,5,2018-03-21 17:40:25,2018-03-21 00:00:00,297.39,Loyal Customers,Loyality programs;Cross Sell,3273,69178,5171,Facial Tissues,paper goods,household,paper goods,6.0
+SP,5,2017-07-20 10:36:22,2017-07-20 00:00:00,232.88,Loyal Customers,Loyality programs;Cross Sell,37034,83810,15784,"Mist Lemon Lime Soda, Caffeine Free",soft drinks,beverages,soft drinks,4.0
+SP,3,2018-08-11 23:32:03,2018-08-11 00:00:00,232.88,Loyal Customers,Loyality programs;Cross Sell,37034,82833,11162,Bac-Out Stain + Odor Remover Live Enzyme Cultures & Lime Extract,laundry,household,laundry,4.0
+SP,3,2018-08-11 23:32:03,2018-08-11 00:00:00,232.88,Loyal Customers,Loyality programs;Cross Sell,37034,82833,21377,Multigrain Wheat Thins Crackers,crackers,snacks,crackers,4.0
+SP,3,2018-08-11 23:32:03,2018-08-11 00:00:00,232.88,Loyal Customers,Loyality programs;Cross Sell,37034,82833,5140,Lean & Fit Coconut Lemongrass Chicken,frozen meals,frozen,frozen meals,4.0
+SP,5,2018-03-15 23:18:09,2018-03-15 00:00:00,352.28,Loyal Customers,Loyality programs;Cross Sell,7126,69419,23994,Hand Luggage,missing,missing,Hand Luggage,0.0
+SP,5,2017-12-10 22:01:40,2017-12-10 00:00:00,440.42,Loyal Customers,Loyality programs;Cross Sell,33382,81789,23826,Tea,tea,beverages,tea,3.0
+DF,5,2018-02-06 12:48:56,2018-02-06 00:00:00,444.66,Loyal Customers,Loyality programs;Cross Sell,33509,59802,8431,Signature Twin Size Mattress,packaged vegetables fruits,produce,Signature Mattress,5.0
+SP,5,2018-02-25 17:27:50,2018-02-25 00:00:00,407.25999999999993,Loyal Customers,Loyality programs;Cross Sell,5270,22118,8431,Signature Twin Size Mattress,packaged vegetables fruits,produce,Signature Mattress,6.0
+BA,2,2018-02-26 18:36:40,2018-02-26 00:00:00,443.45,Loyal Customers,Loyality programs;Cross Sell,25395,53409,8431,Signature Twin Size Mattress,packaged vegetables fruits,produce,Signature Mattress,6.0
+MG,5,2018-04-18 08:19:13,2018-04-18 00:00:00,332.06,Loyal Customers,Loyality programs;Cross Sell,15722,58972,8431,Signature Twin Size Mattress,packaged vegetables fruits,produce,Signature Mattress,6.0
+CE,1,2018-04-04 12:20:18,2018-04-04 00:00:00,393.61,Loyal Customers,Loyality programs;Cross Sell,29991,59599,8431,Signature Twin Size Mattress,packaged vegetables fruits,produce,Signature Mattress,6.0
+CE,5,2017-08-17 11:52:07,2017-08-17 00:00:00,297.29,Loyal Customers,Loyality programs;Cross Sell,25906,84718,8431,Signature Twin Size Mattress,packaged vegetables fruits,produce,Signature Mattress,6.0
+SP,3,2018-02-01 10:57:12,2018-02-01 00:00:00,400.76,Loyal Customers,Loyality programs;Cross Sell,20400,15073,27558,Polar Ice Sugar-Fee Gum,mint gum,snacks,mint gum,2.0
+SP,5,2017-09-22 23:46:36,2017-09-22 00:00:00,459.57,Loyal Customers,Loyality programs;Cross Sell,4207,32131,28330,Organic Ground Korintje Cinnamon,spices seasonings,pantry,spices seasonings,6.0
+MG,3,2017-04-09 13:11:19,2017-04-09 00:00:00,424.62,Loyal Customers,Loyality programs;Cross Sell,7441,67825,28330,Organic Ground Korintje Cinnamon,spices seasonings,pantry,spices seasonings,6.0
+SP,5,2017-07-02 12:42:15,2017-07-02 00:00:00,230.95,Loyal Customers,Loyality programs;Cross Sell,35448,64735,14455,Espresso + Vanilla Bean Almond Butter,spreads,pantry,spreads,0.0
+RS,4,2018-02-18 09:37:19,2018-02-18 00:00:00,430.73,Loyal Customers,Loyality programs;Cross Sell,6442,33245,14455,Espresso + Vanilla Bean Almond Butter,spreads,pantry,spreads,3.0
+SP,3,2017-07-11 20:58:08,2017-07-11 00:00:00,698.84,Loyal Customers,Loyality programs;Cross Sell,35444,33207,12327,Chicken Condensed Consomme,kosher foods,international,kosher foods,2.0
+MG,5,2018-03-16 06:43:38,2018-03-16 00:00:00,410.94,Loyal Customers,Loyality programs;Cross Sell,29954,54871,12327,Chicken Condensed Consomme,kosher foods,international,kosher foods,6.0
+SP,4,2017-10-11 20:17:39,2017-10-11 00:00:00,435.18,Loyal Customers,Loyality programs;Cross Sell,32807,24259,27366,100% Apple Juice Original,juice nectars,beverages,juice nectars,0.0
+RJ,5,2018-01-03 11:26:07,2018-01-03 00:00:00,454.67,Loyal Customers,Loyality programs;Cross Sell,37333,50113,10384,Natural Peanut Butter,spreads,pantry,spreads,4.0
+SP,5,2018-05-18 12:24:25,2018-05-18 00:00:00,378.08,Loyal Customers,Loyality programs;Cross Sell,13520,37084,29342,Perfect Pinch Mexican Seasoning,spices seasonings,pantry,spices seasonings,6.0
+SP,5,2018-02-07 14:23:10,2018-02-07 00:00:00,396.08,Loyal Customers,Loyality programs;Cross Sell,32344,50903,19592,Grooves Hot & Spicy Cheddar Crispy Cracker Chips,crackers,snacks,crackers,2.0
+SP,5,2017-12-01 14:05:44,2017-12-01 00:00:00,320.0300000000001,Loyal Customers,Loyality programs;Cross Sell,5956,60499,7208,Original Kids Shampoo,hair care,personal care,hair care,2.0
+SP,5,2018-02-25 17:27:50,2018-02-25 00:00:00,407.25999999999993,Loyal Customers,Loyality programs;Cross Sell,5270,22118,7208,Original Kids Shampoo,hair care,personal care,hair care,6.0
+SP,5,2018-01-21 16:34:52,2018-01-21 00:00:00,372.95,Loyal Customers,Loyality programs;Cross Sell,10150,39605,7208,Original Kids Shampoo,hair care,personal care,hair care,2.0
+RJ,4,2017-12-14 11:10:57,2017-12-14 00:00:00,283.18,Loyal Customers,Loyality programs;Cross Sell,11911,43254,7208,Original Kids Shampoo,hair care,personal care,hair care,2.0
+SP,5,2018-05-18 12:24:25,2018-05-18 00:00:00,378.08,Loyal Customers,Loyality programs;Cross Sell,13520,37084,151,ZenPop,beauty,personal care,beauty,6.0
+DF,5,2017-08-29 19:42:23,2017-08-29 00:00:00,444.66,Loyal Customers,Loyality programs;Cross Sell,33509,94135,30159,Perfumes,candy chocolate,snacks,Perfumes,5.0
+SP,5,2017-02-07 01:47:42,2017-02-07 00:00:00,233.48000000000005,Loyal Customers,Loyality programs;Cross Sell,3490,73115,7563,Perfumes,candy chocolate,snacks,Perfumes,3.0
+DF,5,2017-12-22 00:17:37,2017-12-22 00:00:00,444.66,Loyal Customers,Loyality programs;Cross Sell,33509,14702,21720,Protein,yogurt,dairy eggs,Protein,5.0
+DF,1,2017-06-28 11:55:21,2017-06-28 00:00:00,444.66,Loyal Customers,Loyality programs;Cross Sell,33509,20054,28572,Apple Macbook,ice cream ice,frozen,Apple Macbook,5.0
+MG,5,2017-10-11 10:16:40,2017-10-11 00:00:00,410.94,Loyal Customers,Loyality programs;Cross Sell,29954,69156,11848,Organic Creamy Carrot & Bunny Pasta Soup,soup broth bouillon,canned goods,soup broth bouillon,6.0
+RS,3,2018-02-05 13:47:55,2018-02-05 00:00:00,430.73,Loyal Customers,Loyality programs;Cross Sell,6442,74706,11848,Organic Creamy Carrot & Bunny Pasta Soup,soup broth bouillon,canned goods,soup broth bouillon,3.0
+SP,1,2017-10-21 19:37:10,2017-10-21 00:00:00,233.48000000000005,Loyal Customers,Loyality programs;Cross Sell,3490,30604,15768,Purify & Replenish Deep Cleansing Shampoo,hair care,personal care,hair care,3.0
+RJ,1,2018-01-10 20:38:41,2018-01-10 00:00:00,456.27,Loyal Customers,Loyality programs;Cross Sell,30878,38778,14214,Gentle Iron 28mg Capsules,vitamins supplements,personal care,vitamins supplements,6.0
+SP,5,2018-05-05 02:17:50,2018-05-05 00:00:00,320.0300000000001,Loyal Customers,Loyality programs;Cross Sell,5956,16625,28326,Apple Macbook,ice cream ice,frozen,Apple Macbook,2.0
+SP,5,2017-12-05 17:48:44,2017-12-05 00:00:00,150.57,Loyal Customers,Loyality programs;Cross Sell,36385,66166,28326,Apple Macbook,ice cream ice,frozen,Apple Macbook,2.0
+SP,3,2018-01-26 09:53:11,2018-01-26 00:00:00,233.48000000000005,Loyal Customers,Loyality programs;Cross Sell,3490,19286,22806,Bundt Pan,kitchen supplies,household,kitchen supplies,3.0
+SP,5,2017-10-24 13:00:08,2017-10-24 00:00:00,233.48000000000005,Loyal Customers,Loyality programs;Cross Sell,3490,80998,20726,Healthy Request Classic Chicken Noodle Soup Bowl,soup broth bouillon,canned goods,soup broth bouillon,3.0
+RJ,1,2017-02-08 08:48:43,2017-02-08 00:00:00,454.67,Loyal Customers,Loyality programs;Cross Sell,37333,10417,15201,Hand Luggage,missing,missing,Hand Luggage,4.0
+RJ,5,2018-02-20 14:29:35,2018-02-20 00:00:00,456.27,Loyal Customers,Loyality programs;Cross Sell,30878,56502,24201,Mighty Greens,Candy Club,beverages,Candy Club,6.0
+SP,5,2017-06-27 13:32:43,2017-06-27 00:00:00,361.48,Loyal Customers,Loyality programs;Cross Sell,5456,56592,27221,Sangiovese,red wines,alcohol,red wines,4.0
+SP,4,2017-12-11 16:45:58,2017-12-11 00:00:00,398.70000000000016,Loyal Customers,Loyality programs;Cross Sell,29979,62174,31631,Biotin 5000 Mcg,vitamins supplements,personal care,vitamins supplements,6.0
+ES,5,2018-03-21 20:20:16,2018-03-21 00:00:00,394.73,Loyal Customers,Loyality programs;Cross Sell,19021,45078,21321,Dry Sake,specialty wines champagnes,alcohol,specialty wines champagnes,0.0
+SP,5,2017-06-11 04:37:14,2017-06-11 00:00:00,369.8,Loyal Customers,Loyality programs;Cross Sell,31277,90004,21321,Dry Sake,specialty wines champagnes,alcohol,specialty wines champagnes,3.0
+PR,5,2017-11-27 17:59:36,2017-11-27 00:00:00,389.28,Loyal Customers,Loyality programs;Cross Sell,29197,30495,30530,Perfumes,candy chocolate,snacks,Perfumes,6.0
+SP,1,2017-08-15 19:58:40,2017-08-15 00:00:00,297.39,Loyal Customers,Loyality programs;Cross Sell,3273,43398,15979,Extra Sharp Cheddar Cheese Block,packaged cheese,dairy eggs,packaged cheese,6.0
+PA,1,2017-10-12 22:01:07,2017-10-12 00:00:00,569.55,Loyal Customers,Loyality programs;Cross Sell,24051,69394,16654,Whole Care Peppermint Toothpaste,oral hygiene,personal care,oral hygiene,0.0
+SP,4,2017-08-11 11:01:38,2017-08-11 00:00:00,158.87,Loyal Customers,Loyality programs;Cross Sell,39651,70305,15553,Eclairs,bakery desserts,bakery,bakery desserts,4.0
+SP,3,2018-04-12 19:21:52,2018-04-12 00:00:00,424.44,Loyal Customers,Loyality programs;Cross Sell,16979,46704,5253,Storage Bags with Click 'n Lock Double Zipper (7 in x 7.75 in),food storage,household,food storage,1.0
+SP,5,2018-01-21 15:05:27,2018-01-21 00:00:00,332.64,Loyal Customers,Loyality programs;Cross Sell,22715,1772,16934,Grape Singles To Go Packets,cocoa drink mixes,beverages,cocoa drink mixes,3.0
+SP,5,2017-06-09 09:22:57,2017-06-09 00:00:00,424.44,Loyal Customers,Loyality programs;Cross Sell,16979,50651,29722,Pasta Sauce Tomato Basil,MunchPak,dry goods pasta,MunchPak,1.0
+SP,5,2017-09-30 17:10:11,2017-09-30 00:00:00,398.06,Loyal Customers,Loyality programs;Cross Sell,32767,62199,30480,"Tomatoes, Whole Peeled",canned jarred vegetables,canned goods,canned jarred vegetables,4.0
+SP,1,2018-04-23 09:31:12,2018-04-23 00:00:00,378.08,Loyal Customers,Loyality programs;Cross Sell,13520,63767,25416,4 Kids Cold n' Cough Syrup,KetoKrate,personal care,KetoKrate,6.0
+MG,3,2017-08-19 13:04:17,2017-08-19 00:00:00,393.38,Loyal Customers,Loyality programs;Cross Sell,13895,21907,29476,Bud Light Glass Bottles Beer,Snakku,alcohol,Snakku,2.0
+SP,4,2017-08-22 08:22:14,2017-08-22 00:00:00,348.91,Loyal Customers,Loyality programs;Cross Sell,12193,7223,17243,Organic Sumatra Coffee,coffee,beverages,coffee,0.0
+SP,5,2018-01-09 12:26:44,2018-01-09 00:00:00,459.57,Loyal Customers,Loyality programs;Cross Sell,4207,32755,14565,Roadhouse with Bean Chili,canned meat seafood,canned goods,canned meat seafood,6.0
+SP,5,2017-05-26 07:04:33,2017-05-26 00:00:00,287.8,Loyal Customers,Loyality programs;Cross Sell,19354,40916,20442,2ND Foods Purees Dinner Chicken Noodle Dinner,baby food formula,babies,baby food formula,3.0
+ES,5,2017-03-18 11:49:25,2017-03-18 00:00:00,394.73,Loyal Customers,Loyality programs;Cross Sell,19021,14526,15154,Organic Gluten Free Sprouted Corn Flakes,cereal,breakfast,cereal,0.0
+MG,1,2017-08-12 19:53:24,2017-08-12 00:00:00,408.36,Loyal Customers,Loyality programs;Cross Sell,29011,93863,8359,Professor Fizz Soda,soft drinks,beverages,soft drinks,2.0
+SP,5,2018-04-06 15:34:59,2018-04-06 00:00:00,352.28,Loyal Customers,Loyality programs;Cross Sell,7126,30523,14193,Maria Cookies,latino foods,international,latino foods,0.0
+SP,5,2017-03-24 10:08:36,2017-03-24 00:00:00,352.28,Loyal Customers,Loyality programs;Cross Sell,7126,82055,24028,Hand Luggage,missing,missing,Hand Luggage,0.0
+SP,1,2018-01-12 22:44:11,2018-01-12 00:00:00,352.28,Loyal Customers,Loyality programs;Cross Sell,7126,93987,20035,Aqua Colored 18-Ounce Stainless Steel Water Bottle With Loop Cap,food storage,household,food storage,0.0
+SP,4,2017-08-29 02:04:08,2017-08-29 00:00:00,352.28,Loyal Customers,Loyality programs;Cross Sell,7126,37631,30863,Protein,yogurt,dairy eggs,Protein,0.0
+SP,5,2017-05-13 00:04:32,2017-05-13 00:00:00,307.98,Loyal Customers,Loyality programs;Cross Sell,20930,91969,5778,Ultra Hydrating Coconut Lime Body Lotion,soap,personal care,soap,2.0
+SP,3,2018-01-03 22:33:07,2018-01-03 00:00:00,429.38,Loyal Customers,Loyality programs;Cross Sell,39071,9610,10151,Signature Twin Size Mattress,packaged vegetables fruits,produce,Signature Mattress,0.0
+SP,5,2018-03-03 22:15:38,2018-03-03 00:00:00,297.39,Loyal Customers,Loyality programs;Cross Sell,3273,89168,24929,Non-Drowsy Allergy Relief Tablets,KetoKrate,personal care,KetoKrate,6.0
+ES,4,2018-05-15 15:27:57,2018-05-15 00:00:00,427.8,Loyal Customers,Loyality programs;Cross Sell,22181,38500,18211,Special Reserve Extra Sharp Cheddar,packaged cheese,dairy eggs,packaged cheese,3.0
+CE,5,2017-07-30 17:44:10,2017-07-30 00:00:00,393.61,Loyal Customers,Loyality programs;Cross Sell,29991,87372,26698,Sourdough Hard Pretzels Fat Free,chips pretzels,snacks,chips pretzels,6.0
+SC,1,2017-07-05 21:47:36,2017-07-05 00:00:00,401.92,Loyal Customers,Loyality programs;Cross Sell,19794,65193,724,Pods Spring Meadow Detergent + Stain Remover + Brightener,laundry,household,laundry,2.0
+SC,5,2017-05-07 17:20:47,2017-05-07 00:00:00,401.92,Loyal Customers,Loyality programs;Cross Sell,19794,17653,15919,"Rack Roaster, Giant Oval, with Handles",kitchen supplies,household,kitchen supplies,2.0
+SC,1,2018-01-22 16:53:38,2018-01-22 00:00:00,401.92,Loyal Customers,Loyality programs;Cross Sell,19794,18781,30583,Flaked Coconut Unsweetened,baking ingredients,pantry,baking ingredients,2.0
+SP,4,2018-02-08 15:14:27,2018-02-08 00:00:00,369.8,Loyal Customers,Loyality programs;Cross Sell,31277,68667,30583,Flaked Coconut Unsweetened,baking ingredients,pantry,baking ingredients,3.0
+SC,1,2018-01-22 16:53:38,2018-01-22 00:00:00,401.92,Loyal Customers,Loyality programs;Cross Sell,19794,18781,25545,Raspberry Gelatin Dessert,doughs gelatins bake mixes,pantry,doughs gelatins bake mixes,2.0
+RJ,1,2017-03-09 20:50:46,2017-03-09 00:00:00,118.01,Loyal Customers,Loyality programs;Cross Sell,13175,74475,7166,Homemade Style Pizza Sauce,MunchPak,dry goods pasta,MunchPak,0.0
+SP,5,2017-10-10 18:31:51,2017-10-10 00:00:00,322.24000000000007,Loyal Customers,Loyality programs;Cross Sell,22010,34952,1342,Green Pickled Whole Jalapeno Peppers,canned jarred vegetables,canned goods,canned jarred vegetables,0.0
+RJ,4,2017-07-10 18:05:29,2017-07-10 00:00:00,283.18,Loyal Customers,Loyality programs;Cross Sell,11911,14144,1042,Perfect Fit Facial Tissue,beauty,personal care,beauty,2.0
+MG,2,2017-05-26 10:43:29,2017-05-26 00:00:00,433.5,Loyal Customers,Loyality programs;Cross Sell,18850,5749,1042,Perfect Fit Facial Tissue,beauty,personal care,beauty,0.0
+SP,1,2017-06-24 00:58:39,2017-06-24 00:00:00,235.3,Loyal Customers,Loyality programs;Cross Sell,35609,65908,1042,Perfect Fit Facial Tissue,beauty,personal care,beauty,0.0
+SP,5,2018-05-02 13:41:27,2018-05-02 00:00:00,175.06,Loyal Customers,Loyality programs;Cross Sell,24599,47726,17008,Shredded Sharp Cheddar Cheese,packaged cheese,dairy eggs,packaged cheese,0.0
+SP,1,2018-06-06 19:03:21,2018-06-06 00:00:00,158.87,Loyal Customers,Loyality programs;Cross Sell,39651,22892,4269,Mild Cheddar Cheese,packaged cheese,dairy eggs,packaged cheese,4.0
+SP,5,2017-10-24 00:35:32,2017-10-24 00:00:00,235.3,Loyal Customers,Loyality programs;Cross Sell,35609,92110,12409,Organic Distilled White Vinegar,oils vinegars,pantry,oils vinegars,0.0
+SP,4,2018-05-31 12:48:26,2018-05-31 00:00:00,150.57,Loyal Customers,Loyality programs;Cross Sell,36385,16915,7079,Organic Alfalfa Sprouts,fresh vegetables,produce,fresh vegetables,2.0
+PA,1,2017-10-12 22:01:07,2017-10-12 00:00:00,569.55,Loyal Customers,Loyality programs;Cross Sell,24051,69394,2234,Lunchables Ham & Cheddar with Cracker Stackers,lunch meat,deli,lunch meat,0.0
+SP,5,2018-08-08 14:38:18,2018-08-08 00:00:00,243.55,Loyal Customers,Loyality programs;Cross Sell,4999,27904,2234,Lunchables Ham & Cheddar with Cracker Stackers,lunch meat,deli,lunch meat,4.0
+SP,1,2017-10-29 20:18:46,2017-10-29 00:00:00,441.73,Loyal Customers,Loyality programs;Cross Sell,30598,42468,4329,Yellowfin Tuna in Pure Olive Oil,canned meat seafood,canned goods,canned meat seafood,6.0
+RJ,3,2017-10-25 12:46:59,2017-10-25 00:00:00,456.27,Loyal Customers,Loyality programs;Cross Sell,30878,65380,4329,Yellowfin Tuna in Pure Olive Oil,canned meat seafood,canned goods,canned meat seafood,6.0
+PR,5,2018-04-19 17:30:07,2018-04-19 00:00:00,389.28,Loyal Customers,Loyality programs;Cross Sell,29197,55027,6533,1% Lowfat Organic Milk,milk,dairy eggs,milk,6.0
+SP,3,2017-09-04 20:41:08,2017-09-04 00:00:00,698.84,Loyal Customers,Loyality programs;Cross Sell,35444,23217,20157,Hummus Spicy Avocado,preserved dips spreads,pantry,preserved dips spreads,2.0
+SP,3,2017-09-04 20:41:08,2017-09-04 00:00:00,698.84,Loyal Customers,Loyality programs;Cross Sell,35444,23217,23766,Cucumber Hand Soap,body lotions soap,personal care,body lotions soap,2.0
+SP,3,2017-09-04 20:41:08,2017-09-04 00:00:00,698.84,Loyal Customers,Loyality programs;Cross Sell,35444,23217,10378,Honey Flake & Oat Clusters,cereal,breakfast,cereal,2.0
+SP,5,2017-10-24 10:16:27,2017-10-24 00:00:00,698.84,Loyal Customers,Loyality programs;Cross Sell,35444,68611,20098,Protein Energy Bar Original Peanut Butter Creme,energy granola bars,snacks,energy granola bars,2.0
+SP,5,2018-01-31 16:03:47,2018-01-31 00:00:00,269.5,Loyal Customers,Loyality programs;Cross Sell,23326,89319,15845,Quart Size Storage Bags with Click 'n Lock Double Zipper,food storage,household,food storage,6.0
+MG,5,2017-07-02 12:03:17,2017-07-02 00:00:00,410.94,Loyal Customers,Loyality programs;Cross Sell,29954,94658,3571,Coconut & Hibiscus Curl & Style Milk,hair care,personal care,hair care,6.0
+MG,5,2018-04-16 19:27:56,2018-04-16 00:00:00,410.94,Loyal Customers,Loyality programs;Cross Sell,29954,63661,10816,Rainbow Rice + Chicken,frozen meals,frozen,frozen meals,6.0
+RS,3,2017-11-28 11:42:49,2017-11-28 00:00:00,357.1,Loyal Customers,Loyality programs;Cross Sell,6461,87028,17658,"6\"" Free Ranger Bully Stix",dog food care,pets,dog food care,6.0
+RJ,5,2018-02-06 17:11:21,2018-02-06 00:00:00,326.5,Loyal Customers,Loyality programs;Cross Sell,36719,22006,10892,Baked Crunchy Cheese Flavored Snacks,chips pretzels,snacks,chips pretzels,6.0
+ES,5,2017-07-01 20:23:30,2017-07-01 00:00:00,451.47,Loyal Customers,Loyality programs;Cross Sell,4133,15479,31476,"Measure Cups, 4 pc",kitchen supplies,household,kitchen supplies,2.0
+DF,1,2017-09-29 15:35:18,2017-09-29 00:00:00,347.21000000000015,Loyal Customers,Loyality programs;Cross Sell,6999,73192,9752,Lime Gelatin,doughs gelatins bake mixes,pantry,doughs gelatins bake mixes,4.0
+SP,5,2018-01-02 07:58:29,2018-01-02 00:00:00,208.56,Loyal Customers,Loyality programs;Cross Sell,25009,95231,1279,Ultimate Flora 80 Billion Probiotic Vegetable Capsules,digestion,personal care,digestion,2.0
+SP,5,2017-02-15 11:43:37,2017-02-15 00:00:00,337.34,Loyal Customers,Loyality programs;Cross Sell,30692,80676,18427,Butter & Garlic Ready Rice,ZenPop,dry goods pasta,ZenPop,3.0
+SP,5,2017-11-27 15:22:59,2017-11-27 00:00:00,337.34,Loyal Customers,Loyality programs;Cross Sell,30692,7066,8050,Wonton Strips Garlic Ginger,salad dressing toppings,pantry,salad dressing toppings,3.0
+SP,3,2017-10-28 17:18:18,2017-10-28 00:00:00,337.34,Loyal Customers,Loyality programs;Cross Sell,30692,27790,31614,Lactose Free Soy Cheese Frozen Pizza,frozen pizza,frozen,frozen pizza,3.0
+ES,3,2017-09-11 10:11:09,2017-09-11 00:00:00,360.09000000000015,Loyal Customers,Loyality programs;Cross Sell,16980,17808,9771,Classic New York Style Cheesecake,frozen dessert,frozen,frozen dessert,3.0
+RS,1,2017-09-14 13:18:21,2017-09-14 00:00:00,667.61,Loyal Customers,Loyality programs;Cross Sell,38852,73942,17138,Positively Pancakes,breakfast bakery,bakery,breakfast bakery,2.0
+CE,4,2017-09-26 08:14:36,2017-09-26 00:00:00,297.29,Loyal Customers,Loyality programs;Cross Sell,25906,16641,22819,Organic Medium Chili,canned meals beans,canned goods,canned meals beans,6.0
+SP,4,2018-03-09 09:38:06,2018-03-09 00:00:00,322.24000000000007,Loyal Customers,Loyality programs;Cross Sell,22010,36654,10081,Oat Raisin Walnut Spice Whenever Bars,energy granola bars,snacks,energy granola bars,0.0
+MG,3,2017-01-30 10:12:59,2017-01-30 00:00:00,408.36,Loyal Customers,Loyality programs;Cross Sell,29011,55056,8288,Mexican-Style Ground Spiked Eggnog Dark Chocolate,cocoa drink mixes,beverages,cocoa drink mixes,2.0
+SP,5,2018-06-15 22:14:48,2018-06-15 00:00:00,247.07,Loyal Customers,Loyality programs;Cross Sell,17270,39257,5158,Classic Mix Cookies & Crackers,cookies cakes,snacks,cookies cakes,3.0
+SP,4,2017-11-29 14:21:01,2017-11-29 00:00:00,259.98,Loyal Customers,Loyality programs;Cross Sell,13339,50753,11820,Colander,kitchen supplies,household,kitchen supplies,2.0
+SP,4,2018-03-30 16:38:04,2018-03-30 00:00:00,259.98,Loyal Customers,Loyality programs;Cross Sell,13339,54881,29106,Value Distiller White Vinegar,oils vinegars,pantry,oils vinegars,2.0
+SP,1,2017-06-10 12:02:53,2017-06-10 00:00:00,259.98,Loyal Customers,Loyality programs;Cross Sell,13339,59604,4236,Endurance Cool Wave Clear Gel Anti-Perspirant & Deodorant,deodorants,personal care,deodorants,2.0
+SP,1,2018-01-16 18:06:21,2018-01-16 00:00:00,208.56,Loyal Customers,Loyality programs;Cross Sell,25009,96705,12555,Navel,fresh fruits,produce,fresh fruits,2.0
+SP,5,2018-03-02 14:18:51,2018-03-02 00:00:00,208.56,Loyal Customers,Loyality programs;Cross Sell,25009,31898,28165,Large Jonagold Apple,fresh fruits,produce,fresh fruits,2.0
+SP,5,2018-02-16 20:28:41,2018-02-16 00:00:00,208.56,Loyal Customers,Loyality programs;Cross Sell,25009,11673,22095,Tea Temples Mao Feng Green Tea,tea,beverages,tea,2.0
+SP,1,2018-01-16 01:25:39,2018-01-16 00:00:00,277.22,Loyal Customers,Loyality programs;Cross Sell,15769,91760,30141,Lemon Pound Cake,bakery desserts,bakery,bakery desserts,2.0
+SP,5,2018-04-23 15:57:52,2018-04-23 00:00:00,277.22,Loyal Customers,Loyality programs;Cross Sell,15769,51511,5325,Salsa Verde Medium Salsa,preserved dips spreads,pantry,preserved dips spreads,2.0
+SP,5,2017-08-28 14:43:46,2017-08-28 00:00:00,277.22,Loyal Customers,Loyality programs;Cross Sell,15769,36344,2295,Yellow Bell Pepper,fresh vegetables,produce,fresh vegetables,2.0
+SP,1,2017-05-05 03:00:07,2017-05-05 00:00:00,277.22,Loyal Customers,Loyality programs;Cross Sell,15769,57116,9665,Swivel Dish Brush,cleaning products,household,cleaning products,2.0
+SP,5,2017-11-27 11:33:43,2017-11-27 00:00:00,429.38,Loyal Customers,Loyality programs;Cross Sell,39071,89778,25736,Automatic Dishwasher Powder Citrus,dish detergents,household,dish detergents,0.0
+RS,5,2018-04-17 14:03:55,2018-04-17 00:00:00,378.59,Loyal Customers,Loyality programs;Cross Sell,19371,54686,17968,Gluten Free Lemon Goodness Cookies,cookies cakes,snacks,cookies cakes,3.0
+SP,1,2018-01-31 23:06:27,2018-01-31 00:00:00,400.76,Loyal Customers,Loyality programs;Cross Sell,20400,37964,10770,Almond Chocolate Quinoa Cookie,cookies cakes,snacks,cookies cakes,2.0
+SP,5,2018-03-07 17:42:06,2018-03-07 00:00:00,308.0900000000001,Loyal Customers,Loyality programs;Cross Sell,37754,70236,17281,Perfumes,candy chocolate,snacks,Perfumes,2.0
+SP,5,2018-03-07 17:42:06,2018-03-07 00:00:00,308.0900000000001,Loyal Customers,Loyality programs;Cross Sell,37754,70236,11136,Organic Low Sodium Chicken Cooking Stock,soup broth bouillon,canned goods,soup broth bouillon,2.0
+SP,5,2018-02-12 09:16:15,2018-02-12 00:00:00,308.0900000000001,Loyal Customers,Loyality programs;Cross Sell,37754,1744,30200,Aspen Flower Essence Anxiety Homeopathic Remedy,FitSnack,other,FitSnack,2.0
+SP,5,2018-04-10 13:56:42,2018-04-10 00:00:00,308.0900000000001,Loyal Customers,Loyality programs;Cross Sell,37754,52144,19544,All Natural Virgin Limeade,Candy Club,beverages,Candy Club,2.0
+MG,5,2017-02-19 19:14:47,2017-02-19 00:00:00,424.99,Loyal Customers,Loyality programs;Cross Sell,32144,57587,14741,"9\"" Pumpkin Pie",bakery desserts,bakery,bakery desserts,0.0
+DF,3,2017-05-19 10:02:07,2017-05-19 00:00:00,347.21000000000015,Loyal Customers,Loyality programs;Cross Sell,6999,78037,16587,Onion Hamburger Buns,buns rolls,bakery,buns rolls,4.0
+DF,2,2017-05-19 10:02:07,2017-05-19 00:00:00,347.21000000000015,Loyal Customers,Loyality programs;Cross Sell,6999,78037,16587,Onion Hamburger Buns,buns rolls,bakery,buns rolls,4.0
+SP,5,2018-02-23 13:21:11,2018-02-23 00:00:00,387.43,Loyal Customers,Loyality programs;Cross Sell,20920,81923,11726,Sheer Touch Lotion Sunscreen SPF 30,body lotions soap,personal care,body lotions soap,4.0
+SC,5,2017-11-25 01:17:19,2017-11-25 00:00:00,437.4,Loyal Customers,Loyality programs;Cross Sell,37845,34953,23188,Signature Twin Size Mattress,packaged vegetables fruits,produce,Signature Mattress,2.0
+SP,5,2018-04-20 00:23:34,2018-04-20 00:00:00,396.08,Loyal Customers,Loyality programs;Cross Sell,32344,34605,10532,Two Brothers French Country Ale,Snakku,alcohol,Snakku,2.0
+SP,5,2017-07-09 15:40:45,2017-07-09 00:00:00,396.08,Loyal Customers,Loyality programs;Cross Sell,32344,27245,186,Fresh Scent Dishwasher Detergent with Dawn,dish detergents,household,dish detergents,2.0
+SP,5,2018-04-09 22:15:15,2018-04-09 00:00:00,351.89,Loyal Customers,Loyality programs;Cross Sell,4267,96641,16661,Chipotle Pepper Hummus Wrap,KetoKrate,deli,KetoKrate,1.0
+DF,5,2017-07-08 15:16:57,2017-07-08 00:00:00,347.21000000000015,Loyal Customers,Loyality programs;Cross Sell,6999,11209,4771,NOTICEables Linen & Sky Dual Scented Oil Refill,air fresheners candles,household,air fresheners candles,4.0
+RJ,1,2018-04-04 08:15:39,2018-04-04 00:00:00,454.67,Loyal Customers,Loyality programs;Cross Sell,37333,82243,30188,Hampton Creek,condiments,pantry,condiments,4.0
+RS,1,2017-09-14 13:18:21,2017-09-14 00:00:00,667.61,Loyal Customers,Loyality programs;Cross Sell,38852,73942,17394,Organic Apricot Preserve,spreads,pantry,spreads,2.0
+SP,5,2017-10-23 11:41:04,2017-10-23 00:00:00,407.25999999999993,Loyal Customers,Loyality programs;Cross Sell,5270,37460,27718,Maraschino Syrup,Love with food,pantry,Love with food,6.0
+SP,5,2018-04-09 16:14:21,2018-04-09 00:00:00,333.05,Loyal Customers,Loyality programs;Cross Sell,31555,72833,17047,Chocolate Craze Nutrition Bar,energy granola bars,snacks,energy granola bars,4.0
+SP,5,2017-08-02 10:34:23,2017-08-02 00:00:00,408.69000000000005,Loyal Customers,Loyality programs;Cross Sell,10774,93502,31402,Parsley Plus All Surface Cleaner,cleaning products,household,cleaning products,1.0
+SP,5,2017-12-05 17:48:44,2017-12-05 00:00:00,150.57,Loyal Customers,Loyality programs;Cross Sell,36385,66166,1330,Extra Soft Double Roll Bathroom Tissue,paper goods,household,paper goods,2.0
+SP,4,2018-03-17 19:47:48,2018-03-17 00:00:00,391.43,Loyal Customers,Loyality programs;Cross Sell,32151,27065,23055,Crystal Fresh Drinking Water,water seltzer sparkling water,beverages,water seltzer sparkling water,0.0
+SP,3,2017-11-21 11:54:47,2017-11-21 00:00:00,459.57,Loyal Customers,Loyality programs;Cross Sell,4207,31632,27568,Citrus Punch,juice nectars,beverages,juice nectars,6.0
+SC,1,2017-03-13 11:03:49,2017-03-13 00:00:00,437.4,Loyal Customers,Loyality programs;Cross Sell,37845,81101,3005,Soak Proof Foam Plates,plates bowls cups flatware,household,plates bowls cups flatware,2.0
+MG,5,2018-03-21 11:15:17,2018-03-21 00:00:00,433.5,Loyal Customers,Loyality programs;Cross Sell,18850,46662,18571,Complete Free Denture Adhesive Cream,oral hygiene,personal care,oral hygiene,0.0
+MG,5,2017-02-19 19:14:47,2017-02-19 00:00:00,424.99,Loyal Customers,Loyality programs;Cross Sell,32144,57587,19875,Protein,yogurt,dairy eggs,Protein,0.0
+MG,5,2017-08-13 19:41:28,2017-08-13 00:00:00,424.99,Loyal Customers,Loyality programs;Cross Sell,32144,37078,23364,Max Water Caplets,protein meal replacements,personal care,protein meal replacements,0.0
+RJ,5,2017-09-27 21:35:47,2017-09-27 00:00:00,118.01,Loyal Customers,Loyality programs;Cross Sell,13175,38832,3982,Whole Cantaloupe,fresh fruits,produce,fresh fruits,0.0
+RJ,1,2017-12-09 10:16:45,2017-12-09 00:00:00,118.01,Loyal Customers,Loyality programs;Cross Sell,13175,94105,27802,Fruit Flax & Nuts Oatmeal,hot cereal pancake mixes,breakfast,hot cereal pancake mixes,0.0
+RJ,1,2018-08-18 15:26:01,2018-08-18 00:00:00,118.01,Loyal Customers,Loyality programs;Cross Sell,13175,59543,20308,Canned Heat 2 Hour,more household,household,more household,0.0
+SP,5,2018-01-05 17:35:23,2018-01-05 00:00:00,440.42,Loyal Customers,Loyality programs;Cross Sell,33382,69247,30728,Rosewater & Glycerin With Atomizer Flower Water,soap,personal care,soap,3.0
+PA,1,2017-07-06 16:39:04,2017-07-06 00:00:00,569.55,Loyal Customers,Loyality programs;Cross Sell,24051,48750,4038,Healthy Shape Fiber Supplement,digestion,personal care,digestion,0.0
+RJ,5,2018-06-11 20:05:36,2018-06-11 00:00:00,283.18,Loyal Customers,Loyality programs;Cross Sell,11911,59753,27439,Popcorn Extra Butter Microwave,popcorn jerky,snacks,popcorn jerky,2.0
+SP,5,2018-04-30 19:54:19,2018-04-30 00:00:00,247.07,Loyal Customers,Loyality programs;Cross Sell,17270,40296,54,24/7 Performance Cat Litter,cat food care,pets,cat food care,3.0
+SP,3,2017-11-24 02:14:00,2017-11-24 00:00:00,369.8,Loyal Customers,Loyality programs;Cross Sell,31277,92319,14396,All-In-One Orange Dishwasher Gel Pacs,dish detergents,household,dish detergents,3.0
+MG,5,2017-04-04 22:33:07,2017-04-04 00:00:00,234.31,Loyal Customers,Loyality programs;Cross Sell,34069,59489,17907,Lemon Orange Sparking Mineral Water,water seltzer sparkling water,beverages,water seltzer sparkling water,4.0
+SP,5,2018-03-10 10:10:19,2018-03-10 00:00:00,264.14,Loyal Customers,Loyality programs;Cross Sell,19114,23484,2942,B Complex With Vitamin C Stress Formula Tablets,FitSnack,other,FitSnack,4.0
+MG,5,2018-02-02 14:10:35,2018-02-02 00:00:00,435.28,Loyal Customers,Loyality programs;Cross Sell,22472,33602,7464,rich kiss Olive & Aloe Moisturizer 2 in 1,soap,personal care,soap,5.0
+SP,4,2018-01-01 22:37:33,2018-01-01 00:00:00,441.73,Loyal Customers,Loyality programs;Cross Sell,30598,8036,13607,Pre Workout Energizer Lemon Lime Powdered Dietary Supplement,protein meal replacements,personal care,protein meal replacements,6.0
+SP,4,2018-04-20 20:53:39,2018-04-20 00:00:00,427.38,Loyal Customers,Loyality programs;Cross Sell,38225,30781,29218,Original Recipe Coating Mix,World Sampler,pantry,World Sampler,0.0
+SP,5,2018-03-24 16:14:47,2018-03-24 00:00:00,406.69000000000005,Loyal Customers,Loyality programs;Cross Sell,8921,302,4548,Blueberries Age Refresh Cleansing Facial Towelettes - 30 CT,facial care,personal care,facial care,1.0
+SP,1,2018-03-13 15:57:08,2018-03-13 00:00:00,247.07,Loyal Customers,Loyality programs;Cross Sell,17270,85570,22087,Whole Celery Seed,spices seasonings,pantry,spices seasonings,3.0
+SP,5,2018-08-08 17:42:30,2018-08-08 00:00:00,230.95,Loyal Customers,Loyality programs;Cross Sell,35448,13392,862,Unsweetened Original Organic Soy Non-Dairy Beverage,soy lactosefree,dairy eggs,soy lactosefree,0.0
+MG,1,2017-06-16 14:29:33,2017-06-16 00:00:00,306.4,Loyal Customers,Loyality programs;Cross Sell,31695,49635,6735,Applesauce On The Go Apple Cinnamon Pouches,canned fruit applesauce,canned goods,canned fruit applesauce,3.0
+ES,5,2018-06-14 21:37:00,2018-06-14 00:00:00,427.8,Loyal Customers,Loyality programs;Cross Sell,22181,48701,15737,"Cheese, Pure Goat Milk, Plain Chef's Chevre",packaged cheese,dairy eggs,packaged cheese,3.0
+ES,5,2018-06-14 21:37:00,2018-06-14 00:00:00,427.8,Loyal Customers,Loyality programs;Cross Sell,22181,48701,31057,"Soup, Hearty Black Bean",soup broth bouillon,canned goods,soup broth bouillon,3.0
+ES,5,2018-06-14 21:37:00,2018-06-14 00:00:00,427.8,Loyal Customers,Loyality programs;Cross Sell,22181,48701,1762,Homestyle Creamy Butter Instant Mashed Potatoes,ZenPop,dry goods pasta,ZenPop,3.0
+MG,5,2018-03-26 19:48:17,2018-03-26 00:00:00,400.20000000000016,Loyal Customers,Loyality programs;Cross Sell,18072,66658,13443,Chocolate Banana Meal Replacement Shake,protein meal replacements,personal care,protein meal replacements,6.0
+ES,1,2017-04-04 18:09:37,2017-04-04 00:00:00,360.09000000000015,Loyal Customers,Loyality programs;Cross Sell,16980,31580,23552,Hand Luggage,missing,missing,Hand Luggage,3.0
+ES,1,2017-07-13 19:40:00,2017-07-13 00:00:00,360.09000000000015,Loyal Customers,Loyality programs;Cross Sell,16980,73994,17790,Asian BBQ Sauce,asian foods,international,asian foods,3.0
+ES,1,2017-07-13 19:40:00,2017-07-13 00:00:00,360.09000000000015,Loyal Customers,Loyality programs;Cross Sell,16980,73994,11247,Shortbread Cookies,cookies cakes,snacks,cookies cakes,3.0
+ES,5,2018-02-07 10:03:37,2018-02-07 00:00:00,360.09000000000015,Loyal Customers,Loyality programs;Cross Sell,16980,17997,18381,Aji-Mirin Sweet Cooking Rice Seasoning,asian foods,international,asian foods,3.0
+MG,5,2017-09-22 20:43:04,2017-09-22 00:00:00,400.20000000000016,Loyal Customers,Loyality programs;Cross Sell,18072,65904,191,Medium Spicy Butter Chicken Simmer Sauce,MunchPak,dry goods pasta,MunchPak,6.0
+MG,5,2017-11-09 14:07:54,2017-11-09 00:00:00,332.06,Loyal Customers,Loyality programs;Cross Sell,15722,79851,9095,Organic Morning Harvest Apples + Walnuts Macrobar,energy granola bars,snacks,energy granola bars,6.0
+SP,4,2018-02-18 17:02:17,2018-02-18 00:00:00,361.48,Loyal Customers,Loyality programs;Cross Sell,5456,861,5905,The People's Daily Green Tea Bags,tea,beverages,tea,4.0
+SP,3,2018-01-09 18:17:46,2018-01-09 00:00:00,407.25999999999993,Loyal Customers,Loyality programs;Cross Sell,5270,58645,13441,Wondra Quick Mixing Flour,baking ingredients,pantry,baking ingredients,6.0
+SP,1,2018-01-15 22:34:23,2018-01-15 00:00:00,361.48,Loyal Customers,Loyality programs;Cross Sell,5456,74438,22253,Natural Very Emollient Cream Shave Mango Vanilla,shave needs,personal care,shave needs,4.0
+SP,1,2018-01-15 22:34:23,2018-01-15 00:00:00,361.48,Loyal Customers,Loyality programs;Cross Sell,5456,74438,25071,Collagen Booster With Hyaluronic Acid & Resveratrol,vitamins supplements,personal care,vitamins supplements,4.0
+SP,5,2017-08-19 20:17:03,2017-08-19 00:00:00,361.48,Loyal Customers,Loyality programs;Cross Sell,5456,53293,20487,Bromelain 500 mg,digestion,personal care,digestion,4.0
+SP,1,2017-09-14 16:32:45,2017-09-14 00:00:00,383.55,Loyal Customers,Loyality programs;Cross Sell,18787,11763,16118,Extra Virgin Avocado Oil,oils vinegars,pantry,oils vinegars,1.0
+SP,5,2017-06-23 08:45:22,2017-06-23 00:00:00,383.55,Loyal Customers,Loyality programs;Cross Sell,18787,34361,12441,Fire Spicy Cinnamon Sugar Free Gum,mint gum,snacks,mint gum,1.0
+SP,5,2017-08-01 09:32:24,2017-08-01 00:00:00,383.55,Loyal Customers,Loyality programs;Cross Sell,18787,24365,932,Vegetable Pie In A Pocket Sandwich,frozen meals,frozen,frozen meals,1.0
+RS,5,2017-07-24 17:27:59,2017-07-24 00:00:00,667.61,Loyal Customers,Loyality programs;Cross Sell,38852,9565,932,Vegetable Pie In A Pocket Sandwich,frozen meals,frozen,frozen meals,2.0
+SP,4,2018-01-16 20:06:02,2018-01-16 00:00:00,383.55,Loyal Customers,Loyality programs;Cross Sell,18787,24127,17516,Wickles Sweet Pickle Chips,pickled goods olives,pantry,pickled goods olives,1.0
+MG,1,2017-05-20 07:49:33,2017-05-20 00:00:00,375.72,Loyal Customers,Loyality programs;Cross Sell,17456,94871,22120,Perfumes,candy chocolate,snacks,Perfumes,1.0
+MG,5,2017-05-05 14:15:32,2017-05-05 00:00:00,375.72,Loyal Customers,Loyality programs;Cross Sell,17456,26721,19205,Bean & Cheese Dip Zesty,preserved dips spreads,pantry,preserved dips spreads,1.0
+MG,5,2017-05-05 14:15:32,2017-05-05 00:00:00,375.72,Loyal Customers,Loyality programs;Cross Sell,17456,26721,8915,Rosewater,soap,personal care,soap,1.0
+SP,5,2018-03-10 11:31:29,2018-03-10 00:00:00,442.68,Loyal Customers,Loyality programs;Cross Sell,26116,8891,1128,Chocolate Chip Granola Bars,energy granola bars,snacks,energy granola bars,1.0
+SP,4,2017-11-01 13:44:51,2017-11-01 00:00:00,442.68,Loyal Customers,Loyality programs;Cross Sell,26116,18971,20653,Tomato Sauce with Sea Salt,canned jarred vegetables,canned goods,canned jarred vegetables,1.0
+SP,5,2018-04-20 14:47:55,2018-04-20 00:00:00,442.68,Loyal Customers,Loyality programs;Cross Sell,26116,4439,19277,Protein,yogurt,dairy eggs,Protein,1.0
+BA,4,2018-03-28 17:23:11,2018-03-28 00:00:00,443.45,Loyal Customers,Loyality programs;Cross Sell,25395,96359,26927,White & Dark Chunk Chicken,canned meat seafood,canned goods,canned meat seafood,6.0
+ES,5,2018-03-20 16:41:37,2018-03-20 00:00:00,451.47,Loyal Customers,Loyality programs;Cross Sell,4133,66766,10203,Garnishing Bag Bouquet,more household,household,more household,2.0
+RJ,1,2018-01-05 11:18:15,2018-01-05 00:00:00,326.5,Loyal Customers,Loyality programs;Cross Sell,36719,89373,1293,Fresh Yeast,butter,dairy eggs,butter,6.0
+SP,5,2018-01-22 15:42:00,2018-01-22 00:00:00,406.69000000000005,Loyal Customers,Loyality programs;Cross Sell,8921,19291,15649,Baby Seedless Cucumbers,fresh vegetables,produce,fresh vegetables,1.0
+SP,5,2017-12-12 11:00:54,2017-12-12 00:00:00,406.69000000000005,Loyal Customers,Loyality programs;Cross Sell,8921,70720,27434,Bandaid First Aid Gauze Pads,first aid,personal care,first aid,1.0
+SP,1,2018-02-26 12:21:19,2018-02-26 00:00:00,406.69000000000005,Loyal Customers,Loyality programs;Cross Sell,8921,34587,5258,Sparkling Water,water seltzer sparkling water,beverages,water seltzer sparkling water,1.0
+RS,4,2017-07-07 06:53:32,2017-07-07 00:00:00,411.62,Loyal Customers,Loyality programs;Cross Sell,3425,74662,28294,Candles Birthday White,FitSnack,other,FitSnack,1.0
+RS,5,2017-07-29 22:30:47,2017-07-29 00:00:00,411.62,Loyal Customers,Loyality programs;Cross Sell,3425,66356,26581,Valfrais Garlic & Herb Cheese Spread,spreads,pantry,spreads,1.0
+RS,4,2017-11-25 13:40:48,2017-11-25 00:00:00,411.62,Loyal Customers,Loyality programs;Cross Sell,3425,16259,28621,Oatmeal Raisin Flax Soft-Baked Cookies,cookies cakes,snacks,cookies cakes,1.0
+RJ,5,2017-03-02 07:28:36,2017-03-02 00:00:00,257.58,Loyal Customers,Loyality programs;Cross Sell,40827,32678,28523,Organic 2 6 months + Apply Baby Food,baby food formula,babies,baby food formula,0.0
+RS,5,2017-03-30 17:04:05,2017-03-30 00:00:00,430.73,Loyal Customers,Loyality programs;Cross Sell,6442,34561,27743,Moisture Wrap Daily Repair Body Lotion,body lotions soap,personal care,body lotions soap,3.0
+MG,5,2017-04-04 22:33:07,2017-04-04 00:00:00,234.31,Loyal Customers,Loyality programs;Cross Sell,34069,59489,24175,Orbit Cinnamint Sugarfree Gum,mint gum,snacks,mint gum,4.0
+RJ,4,2017-11-26 09:30:30,2017-11-26 00:00:00,590.01,Loyal Customers,Loyality programs;Cross Sell,8502,70007,10113,Soothingly Sensitive Aloe & Buttermilk Body Lotion,soap,personal care,soap,4.0
+SP,1,2017-06-16 18:12:03,2017-06-16 00:00:00,408.69000000000005,Loyal Customers,Loyality programs;Cross Sell,10774,70620,31610,Meatloaf and Mashed Potatoes,frozen meals,frozen,frozen meals,1.0
+SP,1,2017-06-13 09:18:30,2017-06-13 00:00:00,351.89,Loyal Customers,Loyality programs;Cross Sell,4267,47521,31610,Meatloaf and Mashed Potatoes,frozen meals,frozen,frozen meals,1.0
+SP,1,2018-01-09 23:52:18,2018-01-09 00:00:00,150.57,Loyal Customers,Loyality programs;Cross Sell,36385,47810,11741,Organic Fuel High Protein Chocolate Shake,protein meal replacements,personal care,protein meal replacements,2.0
+MG,3,2017-07-22 10:57:18,2017-07-22 00:00:00,272.76,Loyal Customers,Loyality programs;Cross Sell,34471,60648,8270,Radiant Shine Shampoo,hair care,personal care,hair care,6.0
+SP,4,2018-04-17 11:28:08,2018-04-17 00:00:00,348.91,Loyal Customers,Loyality programs;Cross Sell,12193,388,4261,All Natural Whole Strawberries,frozen produce,frozen,frozen produce,0.0
+SP,3,2017-11-05 15:36:10,2017-11-05 00:00:00,348.91,Loyal Customers,Loyality programs;Cross Sell,12193,49846,17215,Single Serve Chocolate Satin Mini Pies,frozen dessert,frozen,frozen dessert,0.0
+RS,1,2017-09-14 13:18:21,2017-09-14 00:00:00,667.61,Loyal Customers,Loyality programs;Cross Sell,38852,73942,2008,"Apple, Carrot, & Spinach Super Smoothie",baby food formula,babies,baby food formula,2.0
+SP,5,2017-10-16 14:19:51,2017-10-16 00:00:00,249.45,Loyal Customers,Loyality programs;Cross Sell,24341,48273,2582,Soda Ginger Ale,soft drinks,beverages,soft drinks,0.0
+ES,5,2018-02-08 20:36:41,2018-02-08 00:00:00,394.73,Loyal Customers,Loyality programs;Cross Sell,19021,52326,26844,Neon Birthday Candles,baking supplies decor,pantry,baking supplies decor,0.0
+ES,3,2017-02-22 19:36:22,2017-02-22 00:00:00,394.73,Loyal Customers,Loyality programs;Cross Sell,19021,44326,6869,Cinnamon Raisin Bagel Thins,breakfast bakery,bakery,breakfast bakery,0.0
+SP,3,2017-10-13 02:17:22,2017-10-13 00:00:00,387.43,Loyal Customers,Loyality programs;Cross Sell,20920,17831,27642,Chicken-Free Strips Seasoned,frozen vegan vegetarian,frozen,frozen vegan vegetarian,4.0
+SP,3,2017-10-13 02:17:22,2017-10-13 00:00:00,387.43,Loyal Customers,Loyality programs;Cross Sell,20920,17831,434,Beach Sage Liquid Fabric Softener,laundry,household,laundry,4.0
+SP,1,2017-09-20 16:36:47,2017-09-20 00:00:00,387.43,Loyal Customers,Loyality programs;Cross Sell,20920,8769,10559,"\""Darn Good\"" Chili Mix",soup broth bouillon,canned goods,soup broth bouillon,4.0
+RS,2,2018-03-19 09:30:21,2018-03-19 00:00:00,430.73,Loyal Customers,Loyality programs;Cross Sell,6442,17040,28363,Garlic & Herb Meatless Chik'n Cutlets,frozen appetizers sides,frozen,frozen appetizers sides,3.0
+SP,3,2017-08-29 23:59:19,2017-08-29 00:00:00,235.3,Loyal Customers,Loyality programs;Cross Sell,35609,52453,25888,Super Nutrition Vanilla Shake,vitamins supplements,personal care,vitamins supplements,0.0
+SP,1,2017-06-16 18:12:03,2017-06-16 00:00:00,408.69000000000005,Loyal Customers,Loyality programs;Cross Sell,10774,70620,13805,Gluten Free Everything Baked Cracker,crackers,snacks,crackers,1.0
+SP,1,2017-06-13 09:18:30,2017-06-13 00:00:00,351.89,Loyal Customers,Loyality programs;Cross Sell,4267,47521,13805,Gluten Free Everything Baked Cracker,crackers,snacks,crackers,1.0
+SP,3,2017-07-24 16:19:27,2017-07-24 00:00:00,408.69000000000005,Loyal Customers,Loyality programs;Cross Sell,10774,44032,21199,Pouilly Fuisse France,white wines,alcohol,white wines,1.0
+MG,3,2018-01-30 19:10:44,2018-01-30 00:00:00,365.94,Loyal Customers,Loyality programs;Cross Sell,30639,50835,29986,Sensitive Facial Cream,skin care,personal care,skin care,1.0
+MG,1,2017-12-01 10:39:13,2017-12-01 00:00:00,365.94,Loyal Customers,Loyality programs;Cross Sell,30639,1594,16365,Hot & Spicey Baked Snack Crackers,crackers,snacks,crackers,1.0
+MG,5,2017-11-20 10:59:49,2017-11-20 00:00:00,365.94,Loyal Customers,Loyality programs;Cross Sell,30639,76174,18826,Healthy Request Condensed Soup Chicken With Rice,soup broth bouillon,canned goods,soup broth bouillon,1.0
+MG,3,2018-03-13 11:53:42,2018-03-13 00:00:00,365.94,Loyal Customers,Loyality programs;Cross Sell,30639,85887,2388,Mission Chunky Salsa Med 16 Oz,preserved dips spreads,pantry,preserved dips spreads,1.0
+SP,5,2018-04-09 16:22:45,2018-04-09 00:00:00,424.44,Loyal Customers,Loyality programs;Cross Sell,16979,5548,21273,Grade A Pasteurized Fat Free Cottage Cheese,other creams cheeses,dairy eggs,other creams cheeses,1.0
+SP,1,2018-04-23 09:31:12,2018-04-23 00:00:00,378.08,Loyal Customers,Loyality programs;Cross Sell,13520,63767,6336,Organic Soft White Bread,bread,bakery,bread,6.0
+RJ,5,2017-12-01 16:39:54,2017-12-01 00:00:00,590.01,Loyal Customers,Loyality programs;Cross Sell,8502,38743,32010,Organic Dried Bananas,nuts seeds dried fruit,snacks,nuts seeds dried fruit,4.0
+SP,4,2017-10-31 09:03:33,2017-10-31 00:00:00,427.38,Loyal Customers,Loyality programs;Cross Sell,38225,78149,18781,Vanilla Whey Protein,protein meal replacements,personal care,protein meal replacements,0.0
+MG,5,2017-08-01 18:57:26,2017-08-01 00:00:00,400.20000000000016,Loyal Customers,Loyality programs;Cross Sell,18072,75791,19466,Complete Seasoning,spices seasonings,pantry,spices seasonings,6.0
+MG,5,2017-04-01 15:30:14,2017-04-01 00:00:00,405.82,Loyal Customers,Loyality programs;Cross Sell,22762,47382,13670,"Tea Tree Oil Mouthwash, with Essential Oil of Spearmint",oral hygiene,personal care,oral hygiene,3.0
+RS,1,2017-09-14 13:18:21,2017-09-14 00:00:00,667.61,Loyal Customers,Loyality programs;Cross Sell,38852,73942,31649,Ultimate Flora RTS Extra Strength Probiotic 30 Billion Cultures Capsules,digestion,personal care,digestion,2.0
+RJ,4,2017-10-23 17:58:36,2017-10-23 00:00:00,590.01,Loyal Customers,Loyality programs;Cross Sell,8502,40227,28385,Apollo Daily Fragrance,deodorants,personal care,deodorants,4.0
+SP,1,2017-07-15 19:39:32,2017-07-15 00:00:00,424.21,Loyal Customers,Loyality programs;Cross Sell,526,64273,3074,Seafood Sensations Dry Cat Food,cat food care,pets,cat food care,3.0
+SP,5,2018-02-27 18:14:18,2018-02-27 00:00:00,332.64,Loyal Customers,Loyality programs;Cross Sell,22715,59659,8403,Wrappers Pre-cut Pop Up Foil Sheets,food storage,household,food storage,3.0
+GO,4,2017-08-10 21:05:35,2017-08-10 00:00:00,297.1,Loyal Customers,Loyality programs;Cross Sell,28547,19184,7003,Hand Luggage,missing,missing,Hand Luggage,3.0
+SP,1,2018-02-02 15:29:05,2018-02-02 00:00:00,287.8,Loyal Customers,Loyality programs;Cross Sell,19354,17187,9055,Protein,yogurt,dairy eggs,Protein,3.0
+RJ,4,2017-11-26 09:30:30,2017-11-26 00:00:00,590.01,Loyal Customers,Loyality programs;Cross Sell,8502,70007,11323,Medium Roast Extra Bold K-Cup Packs Coffee,coffee,beverages,coffee,4.0
+MG,5,2017-06-10 22:09:59,2017-06-10 00:00:00,410.28000000000014,Loyal Customers,Loyality programs;Cross Sell,9517,45589,3053,Hot & Spicy Chicken Flavor Ramen Noodle Soup,ZenPop,dry goods pasta,ZenPop,3.0
+SP,5,2017-07-17 08:20:44,2017-07-17 00:00:00,320.0300000000001,Loyal Customers,Loyality programs;Cross Sell,5956,20162,16247,Caraway Crackers,crackers,snacks,crackers,2.0
+SP,2,2017-11-21 18:20:28,2017-11-21 00:00:00,320.0300000000001,Loyal Customers,Loyality programs;Cross Sell,5956,8560,16529,Real Steak Jerky Original Recipe,popcorn jerky,snacks,popcorn jerky,2.0
+SP,5,2017-05-19 14:15:56,2017-05-19 00:00:00,369.8,Loyal Customers,Loyality programs;Cross Sell,31277,62596,8892,Hand Luggage,missing,missing,Hand Luggage,3.0
+MG,5,2018-03-13 13:23:05,2018-03-13 00:00:00,435.28,Loyal Customers,Loyality programs;Cross Sell,22472,58834,20378,Chicken Broth,soup broth bouillon,canned goods,soup broth bouillon,5.0
+SP,5,2017-07-14 12:20:11,2017-07-14 00:00:00,407.25999999999993,Loyal Customers,Loyality programs;Cross Sell,5270,39391,18330,Click Gel Automatic Citrus Scent Toilet Bowl Cleaner,cleaning products,household,cleaning products,6.0
+SP,4,2017-11-09 09:51:36,2017-11-09 00:00:00,407.25999999999993,Loyal Customers,Loyality programs;Cross Sell,5270,22183,30776,Organic Raw Kombucha Gingerade,Candy Club,beverages,Candy Club,6.0
+SP,5,2018-01-12 12:28:36,2018-01-12 00:00:00,372.95,Loyal Customers,Loyality programs;Cross Sell,10150,89577,9268,Organic Fruit Spread Wild Blueberry,spreads,pantry,spreads,2.0
+SP,5,2018-03-19 16:43:41,2018-03-19 00:00:00,372.95,Loyal Customers,Loyality programs;Cross Sell,10150,81800,31856,Seville Bitter Orange Marmalade,spreads,pantry,spreads,2.0
+SP,5,2018-02-01 10:08:06,2018-02-01 00:00:00,372.95,Loyal Customers,Loyality programs;Cross Sell,10150,79401,7891,Pinot Noir California,red wines,alcohol,red wines,2.0
+RJ,3,2017-02-07 15:25:41,2017-02-07 00:00:00,283.18,Loyal Customers,Loyality programs;Cross Sell,11911,57554,22519,Hand Luggage,missing,missing,Hand Luggage,2.0
+RJ,3,2018-01-30 21:22:50,2018-01-30 00:00:00,283.18,Loyal Customers,Loyality programs;Cross Sell,11911,69065,29171,Cool Mint 4 in 1 Moisture Shave,shave needs,personal care,shave needs,2.0
+RJ,1,2018-08-07 14:27:32,2018-08-07 00:00:00,283.18,Loyal Customers,Loyality programs;Cross Sell,11911,60832,7645,Superior Club Soda,water seltzer sparkling water,beverages,water seltzer sparkling water,2.0
+MG,3,2018-01-11 20:01:08,2018-01-11 00:00:00,433.5,Loyal Customers,Loyality programs;Cross Sell,18850,91672,12279,Italian With Aged Romano Dressing,salad dressing toppings,pantry,salad dressing toppings,0.0
+SP,1,2018-02-25 13:06:16,2018-02-25 00:00:00,435.18,Loyal Customers,Loyality programs;Cross Sell,32807,22563,3452,Southern Butter Pecan Gourmet Coffee Creamer,cream,dairy eggs,cream,0.0
+CE,5,2018-01-19 17:41:22,2018-01-19 00:00:00,297.29,Loyal Customers,Loyality programs;Cross Sell,25906,73675,24043,"Sea Salt, Coarse",spices seasonings,pantry,spices seasonings,6.0
+SP,5,2018-01-27 18:04:38,2018-01-27 00:00:00,264.14,Loyal Customers,Loyality programs;Cross Sell,19114,83308,956,Shampoo Baby Shampoo,baby bath body care,babies,baby bath body care,4.0
+MG,3,2017-07-22 10:57:18,2017-07-22 00:00:00,272.76,Loyal Customers,Loyality programs;Cross Sell,34471,60648,11045,Venus Olay Shave Gel,shave needs,personal care,shave needs,6.0
+MG,4,2018-01-10 08:28:59,2018-01-10 00:00:00,272.76,Loyal Customers,Loyality programs;Cross Sell,34471,59010,5238,Original Flatbread,tortillas flat bread,bakery,tortillas flat bread,6.0
+MG,1,2018-03-28 21:25:36,2018-03-28 00:00:00,272.76,Loyal Customers,Loyality programs;Cross Sell,34471,84532,25517,Old Fashioned Organic Smooth Peanut Butter,spreads,pantry,spreads,6.0
+SP,5,2017-08-16 20:22:28,2017-08-16 00:00:00,429.38,Loyal Customers,Loyality programs;Cross Sell,39071,88326,23030,Perfect Cube Trays For Classic Cocktails,kitchen supplies,household,kitchen supplies,0.0
+SP,5,2017-04-05 21:48:29,2017-04-05 00:00:00,398.70000000000016,Loyal Customers,Loyality programs;Cross Sell,29979,62336,18933,Signature Twin Size Mattress,packaged vegetables fruits,produce,Signature Mattress,6.0
+SP,3,2017-11-03 11:55:35,2017-11-03 00:00:00,398.70000000000016,Loyal Customers,Loyality programs;Cross Sell,29979,50963,20942,Hand Luggage,missing,missing,Hand Luggage,6.0
+SP,5,2017-09-06 15:56:43,2017-09-06 00:00:00,398.70000000000016,Loyal Customers,Loyality programs;Cross Sell,29979,16533,15368,Protein,yogurt,dairy eggs,Protein,6.0
+MG,3,2018-01-09 15:43:45,2018-01-09 00:00:00,435.28,Loyal Customers,Loyality programs;Cross Sell,22472,62524,31137,Dustpan & Brush Set,cleaning products,household,cleaning products,5.0
+SP,3,2018-03-15 13:09:53,2018-03-15 00:00:00,297.39,Loyal Customers,Loyality programs;Cross Sell,3273,51375,4066,Organic Red Heirloom Pasta Sauce,MunchPak,dry goods pasta,MunchPak,6.0
+SP,1,2018-06-24 14:49:59,2018-06-24 00:00:00,297.39,Loyal Customers,Loyality programs;Cross Sell,3273,3856,25913,Daily Replenishing Lotion,body lotions soap,personal care,body lotions soap,6.0
+PR,5,2017-05-17 17:18:27,2017-05-17 00:00:00,389.28,Loyal Customers,Loyality programs;Cross Sell,29197,51734,29162,Cheddar Cheese Natural Sharp,specialty cheeses,dairy eggs,specialty cheeses,6.0
+BA,4,2017-06-15 00:43:00,2017-06-15 00:00:00,443.45,Loyal Customers,Loyality programs;Cross Sell,25395,18871,17937,Bamboo Sporks,plates bowls cups flatware,household,plates bowls cups flatware,6.0
+BA,5,2017-06-12 23:06:47,2017-06-12 00:00:00,443.45,Loyal Customers,Loyality programs;Cross Sell,25395,83993,15356,Organic Vegetable Lower Sodium Soup,soup broth bouillon,canned goods,soup broth bouillon,6.0
+BA,5,2017-02-24 16:09:19,2017-02-24 00:00:00,443.45,Loyal Customers,Loyality programs;Cross Sell,25395,75472,10121,Wild Sockeye Salmon,packaged seafood,meat seafood,packaged seafood,6.0
+MG,5,2017-11-09 14:07:54,2017-11-09 00:00:00,332.06,Loyal Customers,Loyality programs;Cross Sell,15722,79851,4623,Vegetable Lasagna Party Size,frozen meals,frozen,frozen meals,6.0
+MG,5,2017-11-09 14:07:54,2017-11-09 00:00:00,332.06,Loyal Customers,Loyality programs;Cross Sell,15722,79851,19341,Creamy Parmesan Chicken Pot Pie,frozen meals,frozen,frozen meals,6.0
+MG,5,2018-01-12 08:30:17,2018-01-12 00:00:00,332.06,Loyal Customers,Loyality programs;Cross Sell,15722,94419,124,Perfumes,candy chocolate,snacks,Perfumes,6.0
+CE,1,2017-09-05 18:51:14,2017-09-05 00:00:00,393.61,Loyal Customers,Loyality programs;Cross Sell,29991,2687,22935,Organic Yellow Onion,fresh vegetables,produce,fresh vegetables,6.0
+CE,4,2017-10-15 13:37:25,2017-10-15 00:00:00,393.61,Loyal Customers,Loyality programs;Cross Sell,29991,1633,26691,Original Clean-Up Cleaner with Bleach Original,cleaning products,household,cleaning products,6.0
+CE,3,2017-10-25 09:53:12,2017-10-25 00:00:00,393.61,Loyal Customers,Loyality programs;Cross Sell,29991,41987,27465,Apple Macbook,ice cream ice,frozen,Apple Macbook,6.0
+CE,4,2017-11-27 07:20:18,2017-11-27 00:00:00,393.61,Loyal Customers,Loyality programs;Cross Sell,29991,47847,19324,PlugIns Scented Oil Cashmere Woods Refills,air fresheners candles,household,air fresheners candles,6.0
+CE,1,2018-01-31 21:59:56,2018-01-31 00:00:00,297.29,Loyal Customers,Loyality programs;Cross Sell,25906,33034,18867,Protein,yogurt,dairy eggs,Protein,6.0
+CE,1,2018-01-31 21:59:56,2018-01-31 00:00:00,297.29,Loyal Customers,Loyality programs;Cross Sell,25906,33034,23195,Burgers Garden Veggie,frozen vegan vegetarian,frozen,frozen vegan vegetarian,6.0
+GO,3,2018-01-24 22:40:31,2018-01-24 00:00:00,297.1,Loyal Customers,Loyality programs;Cross Sell,28547,18895,13424,Perfumes,candy chocolate,snacks,Perfumes,3.0
+GO,4,2018-03-20 13:37:23,2018-03-20 00:00:00,297.1,Loyal Customers,Loyality programs;Cross Sell,28547,41082,30544,Skin Calming Daily Moisturizing Creme,body lotions soap,personal care,body lotions soap,3.0
+GO,5,2017-09-13 13:28:30,2017-09-13 00:00:00,297.1,Loyal Customers,Loyality programs;Cross Sell,28547,61956,28380,Organic Grass-Fed Real Aged Cheddar & Macaroni Shells,ZenPop,dry goods pasta,ZenPop,3.0
+MG,1,2018-01-12 23:32:20,2018-01-12 00:00:00,405.82,Loyal Customers,Loyality programs;Cross Sell,22762,9544,4323,Apple Macbook,ice cream ice,frozen,Apple Macbook,3.0
+RJ,5,2018-01-09 18:00:00,2018-01-09 00:00:00,326.5,Loyal Customers,Loyality programs;Cross Sell,36719,26339,733,Cinnamon Pop'ettes,cookies cakes,snacks,cookies cakes,6.0
+PA,4,2017-09-30 19:28:10,2017-09-30 00:00:00,341.4600000000001,Loyal Customers,Loyality programs;Cross Sell,25935,93857,20269,Chocolate Peanut Butter Builder's Bar,protein meal replacements,personal care,protein meal replacements,0.0
+RJ,5,2017-12-26 11:36:36,2017-12-26 00:00:00,454.67,Loyal Customers,Loyality programs;Cross Sell,37333,31993,12846,Pomegranate Blackberry Probiotics Juice Drink,Candy Club,beverages,Candy Club,4.0
+RJ,5,2017-05-05 12:18:55,2017-05-05 00:00:00,454.67,Loyal Customers,Loyality programs;Cross Sell,37333,54084,10419,Coastal Crush Red Central Coast,red wines,alcohol,red wines,4.0
+RJ,1,2018-04-12 17:16:49,2018-04-12 00:00:00,257.58,Loyal Customers,Loyality programs;Cross Sell,40827,86953,13210,Italian Style Shredded Parmesan Cheese,packaged cheese,dairy eggs,packaged cheese,0.0
+SP,5,2017-12-26 21:57:46,2017-12-26 00:00:00,307.98,Loyal Customers,Loyality programs;Cross Sell,20930,19715,10146,"Deli Fresh Black Forest Ham, 97% Fat Free, Gluten Free",lunch meat,deli,lunch meat,2.0
+SP,5,2017-12-26 21:57:46,2017-12-26 00:00:00,307.98,Loyal Customers,Loyality programs;Cross Sell,20930,19715,27085,Mango Pineapple Salsa,fresh dips tapenades,deli,fresh dips tapenades,2.0
+SP,5,2017-12-26 21:57:46,2017-12-26 00:00:00,307.98,Loyal Customers,Loyality programs;Cross Sell,20930,19715,1411,"Hummus, Roasted Garlic",fresh dips tapenades,deli,fresh dips tapenades,2.0
+SP,3,2017-08-02 13:26:55,2017-08-02 00:00:00,307.98,Loyal Customers,Loyality programs;Cross Sell,20930,52128,26863,Original Frosted Mini Wheats Little Bites,cereal,breakfast,cereal,2.0
+RJ,1,2018-03-28 15:20:28,2018-03-28 00:00:00,257.58,Loyal Customers,Loyality programs;Cross Sell,40827,61529,16111,Organic Lemon Peel,World Sampler,pantry,World Sampler,0.0
+MG,1,2018-01-12 23:32:20,2018-01-12 00:00:00,405.82,Loyal Customers,Loyality programs;Cross Sell,22762,9544,11872,Perfumes,candy chocolate,snacks,Perfumes,3.0
+MG,5,2017-09-24 12:05:52,2017-09-24 00:00:00,405.82,Loyal Customers,Loyality programs;Cross Sell,22762,88986,11944,Protein,yogurt,dairy eggs,Protein,3.0
+SP,4,2018-01-13 11:25:16,2018-01-13 00:00:00,429.38,Loyal Customers,Loyality programs;Cross Sell,39071,31294,1776,Thin & Crispy Margherita Frozen Pizza,frozen pizza,frozen,frozen pizza,0.0
+SP,4,2018-02-09 10:33:41,2018-02-09 00:00:00,455.63,Loyal Customers,Loyality programs;Cross Sell,36128,27185,21443,"Fruit Sticks, Apple Raspberry",fruit vegetable snacks,snacks,fruit vegetable snacks,4.0
+SP,4,2018-01-21 13:29:20,2018-01-21 00:00:00,400.76,Loyal Customers,Loyality programs;Cross Sell,20400,49916,6491,Hommus Roasted Eggplant,fresh dips tapenades,deli,fresh dips tapenades,2.0
+SP,1,2017-09-27 23:52:43,2017-09-27 00:00:00,400.76,Loyal Customers,Loyality programs;Cross Sell,20400,84691,29568,Lavender Hair Coloring Permanent Hair Color,hair care,personal care,hair care,2.0
+SP,1,2018-01-31 23:06:27,2018-01-31 00:00:00,400.76,Loyal Customers,Loyality programs;Cross Sell,20400,37964,2218,Fast-Max 2 Pack Day Time Severe Cold & Night Time Cold & Flu Liquid,KetoKrate,personal care,KetoKrate,2.0
+SP,1,2017-11-24 21:43:41,2017-11-24 00:00:00,400.76,Loyal Customers,Loyality programs;Cross Sell,20400,11215,27944,Organic Garlic Lovers Hummus,fresh dips tapenades,deli,fresh dips tapenades,2.0
+SP,5,2017-12-29 07:06:24,2017-12-29 00:00:00,378.08,Loyal Customers,Loyality programs;Cross Sell,13520,22829,9282,Spearmint Antibacterial Bathroom Cleaner,cleaning products,household,cleaning products,6.0
+MG,5,2017-07-10 23:50:38,2017-07-10 00:00:00,234.31,Loyal Customers,Loyality programs;Cross Sell,34069,58378,31437,Hearty Beef Barley RTS Soup,soup broth bouillon,canned goods,soup broth bouillon,4.0
+MG,5,2018-03-27 16:11:29,2018-03-27 00:00:00,234.31,Loyal Customers,Loyality programs;Cross Sell,34069,2690,26580,Revitalizing Face Mask,skin care,personal care,skin care,4.0
+RJ,5,2017-11-28 12:00:21,2017-11-28 00:00:00,257.58,Loyal Customers,Loyality programs;Cross Sell,40827,61345,21687,Reese Artichoke Hearts,canned jarred vegetables,canned goods,canned jarred vegetables,0.0
+MG,5,2017-07-20 08:41:22,2017-07-20 00:00:00,400.20000000000016,Loyal Customers,Loyality programs;Cross Sell,18072,45487,26342,Chicken Gumbo Condensed Soup,soup broth bouillon,canned goods,soup broth bouillon,6.0
+PA,4,2017-09-30 19:28:10,2017-09-30 00:00:00,341.4600000000001,Loyal Customers,Loyality programs;Cross Sell,25935,93857,15233,Savory Salmon Flavor Cat Treats,cat food care,pets,cat food care,0.0
+SP,4,2018-01-27 18:48:57,2018-01-27 00:00:00,391.43,Loyal Customers,Loyality programs;Cross Sell,32151,43644,18852,Gnocchi with Potato,dry pasta,dry goods pasta,dry pasta,0.0
+SP,5,2017-04-28 15:39:24,2017-04-28 00:00:00,455.63,Loyal Customers,Loyality programs;Cross Sell,36128,35462,15085,Spot's Stew Dry Cat Food Formula Chicken Recipe,cat food care,pets,cat food care,4.0
+SP,1,2017-10-29 20:18:46,2017-10-29 00:00:00,441.73,Loyal Customers,Loyality programs;Cross Sell,30598,42468,21079,French Vanilla Flavored Medium Roast Ground Coffee,coffee,beverages,coffee,6.0
+PE,3,2017-09-03 22:31:16,2017-09-03 00:00:00,427.98,Loyal Customers,Loyality programs;Cross Sell,32100,86198,6023,Watermelon Lime Sparkling Mountain Spring Water,water seltzer sparkling water,beverages,water seltzer sparkling water,5.0
+SP,1,2017-10-03 20:43:03,2017-10-03 00:00:00,287.8,Loyal Customers,Loyality programs;Cross Sell,19354,105,11937,Signature Twin Size Mattress,packaged vegetables fruits,produce,Signature Mattress,3.0
+MG,5,2017-06-10 22:09:59,2017-06-10 00:00:00,410.28000000000014,Loyal Customers,Loyality programs;Cross Sell,9517,45589,11937,Signature Twin Size Mattress,packaged vegetables fruits,produce,Signature Mattress,3.0
+SP,4,2018-03-22 07:39:35,2018-03-22 00:00:00,287.8,Loyal Customers,Loyality programs;Cross Sell,19354,48186,21203,Carrot Juice Organic Pure Originals,Candy Club,beverages,Candy Club,3.0
+MG,5,2017-10-09 21:58:55,2017-10-09 00:00:00,410.28000000000014,Loyal Customers,Loyality programs;Cross Sell,9517,82666,3737,Kids Mixed Berry Twisted Fruit,fruit vegetable snacks,snacks,fruit vegetable snacks,3.0
+MG,5,2017-05-21 19:14:44,2017-05-21 00:00:00,410.28000000000014,Loyal Customers,Loyality programs;Cross Sell,9517,11283,605,Natural Liquid Laundry Detergent - Blue Eucalyptus and Lavender,laundry,household,laundry,3.0
+SP,4,2018-01-01 22:37:33,2018-01-01 00:00:00,441.73,Loyal Customers,Loyality programs;Cross Sell,30598,8036,28135,Deli-Sliced Roasted Bell Pepper Strips,canned jarred vegetables,canned goods,canned jarred vegetables,6.0
+SP,5,2018-05-11 20:03:19,2018-05-11 00:00:00,441.73,Loyal Customers,Loyality programs;Cross Sell,30598,53112,146,Anti Diarrheal Caplets,digestion,personal care,digestion,6.0
+RJ,3,2017-10-25 12:46:59,2017-10-25 00:00:00,456.27,Loyal Customers,Loyality programs;Cross Sell,30878,65380,3090,Very Berry Flavor Sparkling Mineral Water,water seltzer sparkling water,beverages,water seltzer sparkling water,6.0
+MG,5,2017-02-11 18:10:26,2017-02-11 00:00:00,433.5,Loyal Customers,Loyality programs;Cross Sell,18850,82102,7936,Organic Garlic Hummus,fresh dips tapenades,deli,fresh dips tapenades,0.0
+PA,4,2017-09-30 19:28:10,2017-09-30 00:00:00,341.4600000000001,Loyal Customers,Loyality programs;Cross Sell,25935,93857,13391,Perfect Pinch Italian Seasoning,spices seasonings,pantry,spices seasonings,0.0
+PA,3,2017-02-01 17:39:57,2017-02-01 00:00:00,341.4600000000001,Loyal Customers,Loyality programs;Cross Sell,25935,14931,24496,Quick Rise Yeast,baking supplies decor,pantry,baking supplies decor,0.0
+RS,5,2017-11-03 09:26:13,2017-11-03 00:00:00,430.73,Loyal Customers,Loyality programs;Cross Sell,6442,90336,23316,Naturals Tube-Free Bathroom Tissue,paper goods,household,paper goods,3.0
+SP,4,2017-04-25 08:09:17,2017-04-25 00:00:00,249.45,Loyal Customers,Loyality programs;Cross Sell,24341,23698,29217,Coconut Water Kefir,Candy Club,beverages,Candy Club,0.0
+SP,2,2017-11-30 10:04:05,2017-11-30 00:00:00,249.45,Loyal Customers,Loyality programs;Cross Sell,24341,94143,5699,Gluten Free Mushroom Risotto Bowl,frozen meals,frozen,frozen meals,0.0
+SP,5,2018-03-13 13:11:48,2018-03-13 00:00:00,391.43,Loyal Customers,Loyality programs;Cross Sell,32151,40453,12882,Assorted Latex Free Fabric Bandages,first aid,personal care,first aid,0.0
+SP,5,2018-03-13 13:11:48,2018-03-13 00:00:00,391.43,Loyal Customers,Loyality programs;Cross Sell,32151,40453,18032,Christmas Ale,Snakku,alcohol,Snakku,0.0
+SP,5,2017-11-22 14:37:39,2017-11-22 00:00:00,175.06,Loyal Customers,Loyality programs;Cross Sell,24599,3114,30079,Shea Butter & Vitamin E Body Lotion,soap,personal care,soap,0.0
+SP,5,2017-11-22 14:37:39,2017-11-22 00:00:00,175.06,Loyal Customers,Loyality programs;Cross Sell,24599,3114,31058,Hand Luggage,missing,missing,Hand Luggage,0.0
+SP,5,2018-05-25 15:17:39,2018-05-25 00:00:00,175.06,Loyal Customers,Loyality programs;Cross Sell,24599,38174,24341,Organic & Cold-Pressed Vegetable & Fruit Juice Vitality,Candy Club,beverages,Candy Club,0.0
+MG,3,2017-03-23 15:16:21,2017-03-23 00:00:00,393.38,Loyal Customers,Loyality programs;Cross Sell,13895,84184,16707,Butt Paste Original Diaper Rash Ointment,FitSnack,other,FitSnack,2.0
+SP,5,2017-12-10 14:21:21,2017-12-10 00:00:00,455.63,Loyal Customers,Loyality programs;Cross Sell,36128,45862,26442,Medium Thick & Chunky Salsa,preserved dips spreads,pantry,preserved dips spreads,4.0
+SP,1,2017-03-06 20:51:57,2017-03-06 00:00:00,455.63,Loyal Customers,Loyality programs;Cross Sell,36128,64007,9140,Cinnamon Gum,energy granola bars,snacks,energy granola bars,4.0
+SP,4,2017-12-27 15:34:00,2017-12-27 00:00:00,398.06,Loyal Customers,Loyality programs;Cross Sell,32767,31241,6803,Rose Lemonade,juice nectars,beverages,juice nectars,4.0
+PE,5,2017-05-10 17:44:55,2017-05-10 00:00:00,427.98,Loyal Customers,Loyality programs;Cross Sell,32100,9890,20058,Good Love Body Oil,soap,personal care,soap,5.0
+SP,5,2017-06-02 20:43:42,2017-06-02 00:00:00,427.38,Loyal Customers,Loyality programs;Cross Sell,38225,56121,30496,Crumbled Danish Blue Cheese,packaged cheese,dairy eggs,packaged cheese,0.0
+SP,5,2018-04-17 09:04:34,2018-04-17 00:00:00,427.38,Loyal Customers,Loyality programs;Cross Sell,38225,71136,9373,Organic 2% Buttermilk,milk,dairy eggs,milk,0.0
+SP,5,2018-02-17 18:39:22,2018-02-17 00:00:00,440.42,Loyal Customers,Loyality programs;Cross Sell,33382,81934,27319,Velvety Vanilla Buttercream Frosting,baking ingredients,pantry,baking ingredients,3.0
+SP,4,2017-02-01 13:53:20,2017-02-01 00:00:00,440.42,Loyal Customers,Loyality programs;Cross Sell,33382,92385,15230,Grilled Chicken Teriyaki with Lo Mein Noodles,frozen meals,frozen,frozen meals,3.0
+RS,5,2017-07-24 17:27:59,2017-07-24 00:00:00,667.61,Loyal Customers,Loyality programs;Cross Sell,38852,9565,26507,Perfumes,candy chocolate,snacks,Perfumes,2.0
+SP,4,2017-08-22 23:46:57,2017-08-22 00:00:00,269.5,Loyal Customers,Loyality programs;Cross Sell,23326,39868,1435,Regular Concentrated High Efficiency Bleach,cleaning products,household,cleaning products,6.0
+SP,4,2017-08-22 23:46:57,2017-08-22 00:00:00,269.5,Loyal Customers,Loyality programs;Cross Sell,23326,39868,17269,Enchilado Part Skim Milk Cheese,packaged cheese,dairy eggs,packaged cheese,6.0
+SP,4,2017-08-22 23:46:57,2017-08-22 00:00:00,269.5,Loyal Customers,Loyality programs;Cross Sell,23326,39868,24084,Giblet Gravy,frozen vegan vegetarian,frozen,frozen vegan vegetarian,6.0
+SP,5,2018-03-20 07:49:40,2018-03-20 00:00:00,424.21,Loyal Customers,Loyality programs;Cross Sell,526,8738,27237,Butter Top Wheat Bread,bread,bakery,bread,3.0
+SP,1,2017-07-23 05:33:44,2017-07-23 00:00:00,435.18,Loyal Customers,Loyality programs;Cross Sell,32807,31701,7530,Stir Fry Mix,frozen produce,frozen,frozen produce,0.0
+MG,3,2017-01-30 10:12:59,2017-01-30 00:00:00,408.36,Loyal Customers,Loyality programs;Cross Sell,29011,55056,4221,Gluten Free Thai Sticky Purple Rice,grains rice dried goods,dry goods pasta,grains rice dried goods,2.0
+MG,3,2017-11-22 19:37:41,2017-11-22 00:00:00,408.36,Loyal Customers,Loyality programs;Cross Sell,29011,85813,27775,40% Less Sugar Fruit Punch Juice Blend,juice nectars,beverages,juice nectars,2.0
+PR,5,2017-01-05 14:50:54,2017-01-05 00:00:00,389.28,Loyal Customers,Loyality programs;Cross Sell,29197,9058,14757,4T to 5T Pull Ups Training Pants,diapers wipes,babies,diapers wipes,6.0
+SP,4,2017-11-11 14:43:00,2017-11-11 00:00:00,264.14,Loyal Customers,Loyality programs;Cross Sell,19114,61922,10995,Baked Beans with Tomato Sauce,canned meals beans,canned goods,canned meals beans,4.0
+MG,3,2018-02-14 12:04:23,2018-02-14 00:00:00,393.38,Loyal Customers,Loyality programs;Cross Sell,13895,35889,11514,Black Coffee Grinder With Chamber Maid,kitchen supplies,household,kitchen supplies,2.0
+RJ,5,2017-07-31 16:05:43,2017-07-31 00:00:00,326.5,Loyal Customers,Loyality programs;Cross Sell,36719,95507,13260,Winter Mix Vegetable,frozen produce,frozen,frozen produce,6.0
+ES,1,2017-02-20 21:34:07,2017-02-20 00:00:00,451.47,Loyal Customers,Loyality programs;Cross Sell,4133,30902,24847,"Homestyle Meals Apple, Raspberry, Kale & Amaranth (Stage 2 for 6+ Months)",baby food formula,babies,baby food formula,2.0
+SP,1,2017-12-24 13:33:13,2017-12-24 00:00:00,230.95,Loyal Customers,Loyality programs;Cross Sell,35448,87191,10552,Honey Roasted Chickpeas,fruit vegetable snacks,snacks,fruit vegetable snacks,0.0
+SP,5,2018-08-08 17:42:30,2018-08-08 00:00:00,230.95,Loyal Customers,Loyality programs;Cross Sell,35448,13392,16627,Alive! Whole Food Energizer Liquid Multi Vitamin & Mineral Dietary Supplement,vitamins supplements,personal care,vitamins supplements,0.0
+SP,5,2017-11-26 16:23:14,2017-11-26 00:00:00,230.95,Loyal Customers,Loyality programs;Cross Sell,35448,59278,24126,Organic Earl Grey Black Tea Sachets,tea,beverages,tea,0.0
+MG,4,2018-01-18 16:45:53,2018-01-18 00:00:00,393.38,Loyal Customers,Loyality programs;Cross Sell,13895,42752,2970,Optic White Power Soft Toothbrush,oral hygiene,personal care,oral hygiene,2.0
+SP,2,2017-11-23 18:31:13,2017-11-23 00:00:00,158.87,Loyal Customers,Loyality programs;Cross Sell,39651,13543,27520,Clearly Sheer Beach/Pool Lotion Spray SPF 50+,body lotions soap,personal care,body lotions soap,4.0
+SP,1,2018-06-06 19:03:21,2018-06-06 00:00:00,158.87,Loyal Customers,Loyality programs;Cross Sell,39651,22892,1475,Light Body Fabric Finish Ironing Spray,laundry,household,laundry,4.0
+SP,5,2017-07-04 12:29:51,2017-07-04 00:00:00,369.8,Loyal Customers,Loyality programs;Cross Sell,31277,83060,15692,2nd Foods Turkey Meat,baby food formula,babies,baby food formula,3.0
+MG,1,2017-07-29 11:53:18,2017-07-29 00:00:00,393.38,Loyal Customers,Loyality programs;Cross Sell,13895,29893,21223,Nesquik Strawberry Milk Drink Mix,cocoa drink mixes,beverages,cocoa drink mixes,2.0
+MG,4,2018-04-09 17:37:51,2018-04-09 00:00:00,393.38,Loyal Customers,Loyality programs;Cross Sell,13895,20012,28575,Oil-Free Moisture - Sensitive Skin,facial care,personal care,facial care,2.0
+MG,1,2018-08-15 14:29:08,2018-08-15 00:00:00,306.4,Loyal Customers,Loyality programs;Cross Sell,31695,76,25303,Zap Ems Pizza Snacks,frozen meals,frozen,frozen meals,3.0
+MG,5,2017-11-27 22:55:07,2017-11-27 00:00:00,306.4,Loyal Customers,Loyality programs;Cross Sell,31695,50594,4391,Apple Macbook,ice cream ice,frozen,Apple Macbook,3.0
+MG,4,2018-02-24 10:02:14,2018-02-24 00:00:00,306.4,Loyal Customers,Loyality programs;Cross Sell,31695,87678,9858,Echinacea Supreme,vitamins supplements,personal care,vitamins supplements,3.0
+MG,4,2017-10-16 16:28:00,2017-10-16 00:00:00,424.62,Loyal Customers,Loyality programs;Cross Sell,7441,25278,980,Automatic Toilet Bowl Cleaner with Bleach,cleaning products,household,cleaning products,6.0
+SP,1,2018-03-15 10:38:25,2018-03-15 00:00:00,424.21,Loyal Customers,Loyality programs;Cross Sell,526,8513,20819,White Gorilla Glue Pen,FitSnack,other,FitSnack,3.0
+SP,1,2018-01-02 15:38:56,2018-01-02 00:00:00,424.21,Loyal Customers,Loyality programs;Cross Sell,526,13656,10002,38210 Full Jaw Cuticle Nipper,FitSnack,other,FitSnack,3.0
+RS,4,2018-04-12 16:06:54,2018-04-12 00:00:00,357.1,Loyal Customers,Loyality programs;Cross Sell,6461,25905,29295,Organic Lowfat Sour Cream,other creams cheeses,dairy eggs,other creams cheeses,6.0
+SP,4,2017-08-03 00:04:41,2017-08-03 00:00:00,398.06,Loyal Customers,Loyality programs;Cross Sell,32767,42382,22661,Naturals Fresh Cleansing + Makeup Remover,facial care,personal care,facial care,4.0
+RS,1,2017-02-26 00:04:26,2017-02-26 00:00:00,357.1,Loyal Customers,Loyality programs;Cross Sell,6461,20356,12299,Dried Blueberries,nuts seeds dried fruit,snacks,nuts seeds dried fruit,6.0
+RS,5,2018-03-01 22:30:09,2018-03-01 00:00:00,357.1,Loyal Customers,Loyality programs;Cross Sell,6461,36349,30857,Herbal Tea Sampler,tea,beverages,tea,6.0
+SP,5,2018-03-28 14:01:30,2018-03-28 00:00:00,459.57,Loyal Customers,Loyality programs;Cross Sell,4207,50538,24584,Lemon Verbena Tub and Tile Cleaner,cleaning products,household,cleaning products,6.0
+RS,5,2017-05-08 19:11:58,2017-05-08 00:00:00,378.59,Loyal Customers,Loyality programs;Cross Sell,19371,66650,21468,Mocca-Java Decaffeinated Ground Coffee,coffee,beverages,coffee,3.0
+MG,5,2018-05-11 13:08:50,2018-05-11 00:00:00,424.62,Loyal Customers,Loyality programs;Cross Sell,7441,76346,23520,Dark Chocolate Nutrition Shake,protein meal replacements,personal care,protein meal replacements,6.0
+MG,5,2018-05-11 13:08:50,2018-05-11 00:00:00,424.62,Loyal Customers,Loyality programs;Cross Sell,7441,76346,9557,Chicken Breast Fillet,frozen meat seafood,frozen,frozen meat seafood,6.0
+MG,5,2018-05-11 13:08:50,2018-05-11 00:00:00,424.62,Loyal Customers,Loyality programs;Cross Sell,7441,76346,16463,"Multi-Purpose Cleaner, Lavender",cleaning products,household,cleaning products,6.0
+RS,2,2018-02-12 22:33:58,2018-02-12 00:00:00,378.59,Loyal Customers,Loyality programs;Cross Sell,19371,8987,25323,Calming Shampoo Tea Tree + Sea Buckthorn,hair care,personal care,hair care,3.0
+SP,1,2018-03-27 12:28:30,2018-03-27 00:00:00,335.08,Loyal Customers,Loyality programs;Cross Sell,31566,80726,5979,100% Organic Ground Fennel,spices seasonings,pantry,spices seasonings,4.0
+SP,5,2017-10-06 20:58:51,2017-10-06 00:00:00,398.06,Loyal Customers,Loyality programs;Cross Sell,32767,15552,28840,Natural Active Life Deodorant,deodorants,personal care,deodorants,4.0
+SP,5,2017-10-18 11:56:48,2017-10-18 00:00:00,333.05,Loyal Customers,Loyality programs;Cross Sell,31555,12307,22881,Organic Seasoned Zucchini Strips,fruit vegetable snacks,snacks,fruit vegetable snacks,4.0
+SP,5,2017-10-18 11:56:48,2017-10-18 00:00:00,333.05,Loyal Customers,Loyality programs;Cross Sell,31555,12307,5193,Organic Multi Grain Omega 3 Bread,bread,bakery,bread,4.0
+SP,3,2017-11-08 11:31:57,2017-11-08 00:00:00,333.05,Loyal Customers,Loyality programs;Cross Sell,31555,81729,13984,Organic Mint,fresh herbs,produce,fresh herbs,4.0
+SP,3,2018-05-31 09:59:14,2018-05-31 00:00:00,235.3,Loyal Customers,Loyality programs;Cross Sell,35609,35684,14083,Old Spice For Men 1 Dandruff Shampoo And Conditioner,hair care,personal care,hair care,0.0
+SP,5,2018-08-05 23:06:41,2018-08-05 00:00:00,243.55,Loyal Customers,Loyality programs;Cross Sell,4999,56186,4205,Bonded Filters Natural Squares,coffee,beverages,coffee,4.0
+SP,5,2018-08-05 23:06:41,2018-08-05 00:00:00,243.55,Loyal Customers,Loyality programs;Cross Sell,4999,56186,31583,Coated Tablets Allergy & Congestion Relief,KetoKrate,personal care,KetoKrate,4.0
+SP,5,2018-08-05 23:06:41,2018-08-05 00:00:00,243.55,Loyal Customers,Loyality programs;Cross Sell,4999,56186,2947,"Tea, Woman's Moon Cycle, Caffeine Free, Bags",tea,beverages,tea,4.0
+SP,5,2017-10-17 18:12:23,2017-10-17 00:00:00,332.64,Loyal Customers,Loyality programs;Cross Sell,22715,84709,13448,Safari Animals Strawberry Instant Oatmeal,hot cereal pancake mixes,breakfast,hot cereal pancake mixes,3.0
+SP,5,2017-11-27 21:29:49,2017-11-27 00:00:00,332.64,Loyal Customers,Loyality programs;Cross Sell,22715,75161,22055,Orange Fig Spread,preserved dips spreads,pantry,preserved dips spreads,3.0
+SP,3,2017-01-25 15:47:27,2017-01-25 00:00:00,335.08,Loyal Customers,Loyality programs;Cross Sell,31566,52409,10847,Sidekicks Strawberry Shake,baby food formula,babies,baby food formula,4.0
+SP,3,2017-01-25 15:47:27,2017-01-25 00:00:00,335.08,Loyal Customers,Loyality programs;Cross Sell,31566,52409,3104,Skin Therapy Sensitive Skin Lotionized Moisturizing Shave Gel,shave needs,personal care,shave needs,4.0
+SP,3,2017-01-25 15:47:27,2017-01-25 00:00:00,335.08,Loyal Customers,Loyality programs;Cross Sell,31566,52409,17042,8 oz Dofino Havarti Light,specialty cheeses,dairy eggs,specialty cheeses,4.0

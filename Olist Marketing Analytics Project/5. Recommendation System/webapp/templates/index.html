@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>OList Product Recommender - Praveen Kumar</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Poppins:300,500&amp;display=swap'>
+<style>
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-size: 100%;
+    background-color: #F1FDFF;
+  line-height: 1.5;
+  color: #000;
+}
+@media (min-width: 32rem) {
+  body {
+    font-size: 102.5%;
+  }
+}
+@media (min-width: 54rem) {
+  body {
+    font-size: 105%;
+  }
+}
+@media (min-width: 65rem) {
+  body {
+    font-size: 107.5%;
+  }
+}
+@media (min-width: 75em) {
+  body {
+    font-size: 110%;
+  }
+}
+@media (min-width: 91rem) {
+  body {
+    font-size: 115%;
+  }
+}
+@media (min-width: 115rem) {
+  body {
+    font-size: 120%;
+  }
+}
+@media (min-width: 130rem) {
+  body {
+    font-size: 125%;
+  }
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+figure {
+  max-width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+.hamburger {
+  position: fixed;
+  top: 1em;
+  right: 1em;
+  z-index: 999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 3.5em;
+  width: 3.5em;
+  background-color: transparent;
+  border: 1px solid #231f20;
+  border-radius: 100%;
+  cursor: pointer;
+  transition: border-color 300ms ease-in-out;
+}
+@media (min-width: 54rem) {
+  .hamburger {
+    top: 2em;
+    right: 2em;
+  }
+}
+@media (min-width: 91rem) {
+  .hamburger {
+    top: 3em;
+    right: 3em;
+  }
+}
+.hamburger:before {
+  content: "";
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  height: calc(3.5em - 8px);
+  width: calc(3.5em - 8px);
+  border: 1px solid #231f20;
+  border-radius: 100%;
+  transition: border-color 300ms ease-in-out;
+}
+.js-menu-open .hamburger {
+  border-color: #231f20;
+  transition-delay: 300ms;
+}
+@media (min-width: 54rem) {
+  .js-menu-open .hamburger {
+    border-color: #fff;
+  }
+}
+.js-menu-open .hamburger:before {
+  border-color: #231f20;
+  transition-delay: 300ms;
+}
+@media (min-width: 54rem) {
+  .js-menu-open .hamburger:before {
+    border-color: #fff;
+  }
+}
+.js-menu-closing .hamburger {
+  cursor: wait;
+}
+.hamburger__container {
+  transition: -webkit-transform 300ms ease-in-out;
+  transition: transform 300ms ease-in-out;
+  transition: transform 300ms ease-in-out, -webkit-transform 300ms ease-in-out;
+}
+.js-hamburger .hamburger__container {
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+  transition-delay: 300ms;
+}
+.hamburger__top, .hamburger__middle, .hamburger__bottom {
+  display: block;
+  height: 1px;
+  width: 1.85em;
+  background-color: #231f20;
+}
+.js-menu-open .hamburger__top, .js-menu-open .hamburger__middle, .js-menu-open .hamburger__bottom {
+  background-color: #231f20;
+}
+@media (min-width: 54rem) {
+  .js-menu-open .hamburger__top, .js-menu-open .hamburger__middle, .js-menu-open .hamburger__bottom {
+    background-color: #fff;
+  }
+}
+.hamburger__middle {
+  margin-top: 6px;
+  margin-bottom: 6px;
+  opacity: 1;
+  transition: margin 300ms ease-in-out 300ms, opacity 0s ease-in-out 300ms;
+}
+.js-menu-open .hamburger__middle {
+  margin-top: -2px;
+  margin-bottom: -2px;
+  opacity: 0;
+  transition: margin 300ms ease-in-out, opacity 0s ease-in-out;
+}
+.hamburger__top, .hamburger__bottom {
+  -webkit-transform: rotate(0);
+          transform: rotate(0);
+  transition: background-color 300ms ease-in-out, -webkit-transform 300ms ease-in-out;
+  transition: transform 300ms ease-in-out, background-color 300ms ease-in-out;
+  transition: transform 300ms ease-in-out, background-color 300ms ease-in-out, -webkit-transform 300ms ease-in-out;
+}
+.js-menu-open .hamburger__top, .js-menu-open .hamburger__bottom {
+  transition-delay: 300ms;
+}
+.js-menu-open .hamburger__top {
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+.js-menu-open .hamburger__bottom {
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+}
+
+.menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -9;
+  height: 100%;
+  width: 100%;
+  visibility: hidden;
+  opacity: 0;
+}
+@media (min-width: 54rem) {
+  .menu {
+    min-height: 40em;
+  }
+}
+.js-menu-visible .menu {
+  z-index: 998;
+  visibility: visible;
+  opacity: 1;
+}
+.menu__container, .menu__img {
+  position: absolute;
+  top: 0;
+  height: 100%;
+}
+.menu__container {
+  left: 0;
+  display: flex;
+  width: 100%;
+  overflow: hidden;
+}
+.menu__img {
+  position: relative;
+  display: none;
+}
+@media (min-width: 54rem) {
+  .menu__img {
+    display: block;
+  }
+}
+.menu__img .absolute-bg {
+  opacity: 0;
+  transition: opacity 450ms cubic-bezier(0.25, 0.1, 0.25, 1) 300ms;
+}
+.js-menu-open .menu__img .absolute-bg {
+  opacity: 1;
+}
+.menu__nav {
+  display: flex;
+  justify-content: center;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  padding-top: 3em;
+  padding-bottom: 3em;
+}
+.menu__nav:first-of-type {
+  flex-basis: 45%;
+  max-width: 45%;
+  border-right: 1px solid #000;
+}
+.menu__nav:last-of-type {
+  flex-basis: 55%;
+  max-width: 55%;
+}
+@media (min-width: 65rem) {
+  .menu__nav:last-of-type {
+    flex-basis: 45%;
+    max-width: 45%;
+    border-right: 1px solid #000;
+  }
+}
+.menu__list {
+  display: flex;
+  flex-direction: column;
+}
+.menu__item {
+  overflow: hidden;
+}
+.menu__item:first-child {
+  margin-bottom: 2em;
+  font-weight: 500;
+  font-size: 0.9em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+.menu__item:not(:first-child):not(:last-child) {
+  margin-bottom: 0.25em;
+}
+.menu__item:nth-child(2) .menu__link {
+  transition-delay: 200ms;
+}
+.menu__item:nth-child(3) .menu__link {
+  transition-delay: 300ms;
+}
+.menu__item:nth-child(4) .menu__link {
+  transition-delay: 400ms;
+}
+.menu__item:nth-child(5) .menu__link {
+  transition-delay: 500ms;
+}
+.menu__item:nth-child(6) .menu__link {
+  transition-delay: 600ms;
+}
+.menu__item--contact {
+  margin-top: auto;
+  font-weight: 500;
+  font-size: 0.8em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+.menu__item span {
+  opacity: 0;
+  transition: opacity 600ms cubic-bezier(0.25, 0.1, 0.25, 1);
+}
+.menu__item span:nth-child(1) {
+  transition-delay: 0.1s;
+}
+.menu__item span:nth-child(2) {
+  transition-delay: 0.2s;
+}
+.menu__item span:nth-child(3) {
+  transition-delay: 0.3s;
+}
+.js-menu-open .menu__item span {
+  opacity: 1;
+}
+.menu__link {
+  position: relative;
+  display: inline-block;
+  font-size: 1.5em;
+  color: #000;
+  opacity: 0;
+  -webkit-transform: translate3d(0, 100%, 0);
+          transform: translate3d(0, 100%, 0);
+  transition: all 600ms cubic-bezier(0.25, 0.1, 0.25, 1);
+}
+.menu__link:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 1px;
+  width: 0;
+  background-color: #000;
+  transition: width 400ms ease;
+}
+.menu__link:hover:after {
+  width: 100%;
+}
+.js-menu-open .menu__link {
+  opacity: 1;
+  -webkit-transform: translate3d(0, 0, 0);
+          transform: translate3d(0, 0, 0);
+}
+.menu__sidebar {
+  position: relative;
+  display: none;
+}
+@media (min-width: 65rem) {
+  .menu__sidebar {
+    display: block;
+    flex-basis: 10%;
+    max-width: 10%;
+  }
+}
+.menu__flip {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  -webkit-transform: rotate(90deg) translateY(-50%);
+          transform: rotate(90deg) translateY(-50%);
+  -webkit-transform-origin: left top;
+          transform-origin: left top;
+}
+.menu__copy {
+  display: inline-flex;
+  justify-content: space-between;
+  width: 100vh;
+  padding-right: 2em;
+  padding-left: 2em;
+}
+.menu__copy > span {
+  font-size: 0.8em;
+  opacity: 0;
+  transition: opacity 600ms cubic-bezier(0.25, 0.1, 0.25, 1) 100ms;
+}
+.menu__copy > span:nth-child(1) {
+  transition-delay: 0.1s;
+}
+.menu__copy > span:nth-child(2) {
+  transition-delay: 0.2s;
+}
+.menu__copy > span:nth-child(3) {
+  transition-delay: 0.3s;
+}
+.js-menu-open .menu__copy > span {
+  opacity: 1;
+  transition: opacity 600ms cubic-bezier(0.25, 0.1, 0.25, 1) 200ms;
+}
+.menu__external {
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #000;
+}
+.menu__info {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2em;
+}
+
+.js-overflow {
+  overflow: hidden;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.bg-black {
+  background-color: #000;
+}
+
+.absolute-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  height: 100%;
+  width: 100%;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+    
+    .movie{
+        height: 70vh;
+        margin-top: 15vh;
+        margin-bottom: 15vh;
+        margin-right: 5vh;
+        margin-left: 5vh;
+        display: block;
+        background-color: white;
+        border-radius: 20px;
+        padding: 1em;
+        width: auto;
+        box-shadow: 0px 0px 10px -4px grey;
+        text-align: center;
+    }
+    #movie_name{
+        width: 70%;
+        padding: 1em;
+        border-radius: 5px;
+        text-align: center;
+        border: 1px solid grey;
+    }
+    #submission_button{
+        width: 25%;
+        padding: 1em;
+        margin: 1em;
+        border-radius: 5px;
+        color: white;
+        background-color:dodgerblue;
+        border-style: none;
+    }
+    @media screen and (max-width:600px) {
+        .movie{
+            margin-top: 12vh;
+            margin-bottom: 12vh;
+        }
+}
+</style>
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<!-- Hamburger -->
+<div class="hamburger">
+  <div class="hamburger__container">
+    <span class="hamburger__top"></span>
+    <span class="hamburger__middle"></span>
+    <span class="hamburger__bottom"></span>
+  </div>
+</div>
+
+<!-- Menu -->
+<div class="menu">
+  <div class="menu__container bg-white">
+    <nav class="menu__nav">
+      <ul class="menu__list">
+        <li class="menu__item js-span">Follow us on:</li>
+        <li class="menu__item">
+          <a class="menu__link" href="https://www.linkedin.com/in/praveen-kumar-inbox/" target="_blank">LinkedIn</a>
+        </li>
+        <li class="menu__item">
+          <a class="menu__link" href="https://github.com/inboxpraveen" target="_blank">Github</a>
+        </li>
+        <li class="menu__item">
+          <a class="menu__link" href="https://twitter.com/InboxPraveen" target="_blank">Twitter</a>
+        </li>
+          <li class="menu__item">
+          <a class="menu__link" href="https://medium.com/@pklappy21" target="_blank">Medium</a>
+        </li>
+      </ul>
+    </nav>
+    <nav class="menu__nav">
+      <ul class="menu__list">
+        <li class="menu__item js-span">Other Links</li>
+<!--
+        <li class="menu__item">
+          <a class="menu__link" href="#" target="_blank">All Heroku Projects</a>
+        </li>
+-->
+        <li class="menu__item">
+          <a class="menu__link" href="https://inboxpraveen.github.io" target="_blank">Portfolio</a>
+        </li>
+        <li class="menu__item">
+          <a class="menu__link" href="https://medium.com/hitchhikers-guide-to-deep-learning" target="_blank">My Blogs</a>
+        </li>
+        <li class="menu__item menu__item--contact">
+          <span>Contact</span>
+          <div class="menu__info">
+            <span>Bengaluru, IN</span>
+            <span>
+              <a class="menu__external" href="mailto:inbox.praveen.kumar17@gmail.com">Click here to mail</a>
+            </span>
+          </div>
+        </li>
+      </ul>
+    </nav>
+    <div class="menu__sidebar">
+      <div class="menu__flip">
+        <div class="menu__copy">
+          <span>Checkout my portfolio website:</span>
+          <span><a class="menu__external" href="https://inboxpraveen.github.io" target="_blank" rel="noopener noreferrer">inboxpraveen.github.io</a></span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="menu__img bg-black">
+    <figure class="absolute-bg" style="background-image: url('https://source.unsplash.com/t2Sai-AqIpI/900x1600');"></figure>
+  </div>
+</div>
+
+<!-- Demo -->
+    <div class="movie">
+        <h2><u>Olist Product Recommendation System</u></h2>
+        <form action="{{ url_for('main') }}" method="POST">
+            <input type="number" id="movie_name" name="movie_name" placeholder="Enter Your User ID" required />
+            <input type="submit" id="submission_button" value="Submit"/>
+        </form>
+        <p style="color: #919191; padding: 1em;">The model uses <b>Content Based Recommendations</b> to find similar movies. Intuitive idea behind is <i>"If a person likes a particular item, he/she will also like an item that is similar to it."</i> The dataset is taken from <a href="https://www.kaggle.com/" target="_blank">Kaggle.com</a>.</p>
+        <br>
+        <p>Read more on recommendation systems on <a href="https://developers.google.com/machine-learning/recommendation" target="_blank">Google Developers Machine Learning Blogs</a>.</p>
+  </div>
+<!-- partial -->
+  <script src='https://cdn.jsdelivr.net/npm/jquery@2.2.4/dist/jquery.min.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/animejs@3.1.0/lib/anime.min.js'></script>
+<script>
+// Menu
+const Menu = (() => {
+  let s;
+
+  return {
+    settings() {
+      return {
+        body: $('body'),
+        hamburger: $('.hamburger'),
+        open: 'js-menu-open',
+        visible: 'js-menu-visible',
+        overflow: 'js-overflow',
+        width: $(window).width(),
+        prevWidth: $(window).width() };
+
+    },
+
+    init() {
+      s = this.settings();
+      this.bindEvents();
+    },
+
+    bindEvents() {
+      let menuContainerWidth;
+
+      if (s.width < 864) {
+        menuContainerWidth = 100;
+      } else if (s.width < 1456) {
+        menuContainerWidth = 50;
+      } else {
+        menuContainerWidth = 45;
+      }
+
+      $(window).on('resize', () => {
+        s.width = $(window).width();
+
+        if (s.width < 864) {
+          menuContainerWidth = 100;
+        } else if (s.width < 1456) {
+          menuContainerWidth = 50;
+        } else {
+          menuContainerWidth = 45;
+        }
+      });
+
+      s.hamburger.on('click', () => {
+        Menu.toggleMenu(menuContainerWidth);
+      });
+
+      s.body.on('keyup', e => {
+        if (s.body.hasClass(s.open) && e.which === 27) {
+          Menu.toggleMenu(menuContainerWidth);
+        }
+      });
+    },
+
+    toggleMenu(width) {
+      s.hamburger.toggleClass('js-hamburger');
+      s.body.toggleClass(s.open);
+      s.body.toggleClass(s.overflow);
+
+      // Opening transition
+      if (s.body.hasClass(s.open)) {
+        s.prevWidth = width;
+
+        anime.timeline({
+          easing: 'easeOutQuart',
+          duration: 600,
+          begin() {
+            $('.menu__img').css('left', `${width}%`);
+            s.body.addClass(s.visible);
+          } }).
+
+        add({
+          targets: '.menu__container',
+          width: [0, `${width}%`] }).
+
+        add({
+          targets: '.menu__img',
+          width: [0, `${100 - width}%`] },
+        0);
+      }
+
+      // Closing transition
+      if (!s.body.hasClass(s.open)) {
+        anime.timeline({
+          easing: 'easeInQuart',
+          duration: 600,
+          delay: 200,
+          complete() {
+            s.body.removeClass(s.visible);
+          } }).
+
+        add({
+          targets: '.menu__container',
+          width: [`${s.prevWidth}%`, 0] }).
+
+        add({
+          targets: '.menu__img',
+          width: [`${100 - s.prevWidth}%`, 0] },
+        0);
+      }
+    } };
+
+})();
+
+// Inits
+$(() => {
+  // Spanize
+  const span = $('.js-span');
+  let $ele, words;
+
+  for (let i = 0; i < span.length; i++) {
+    $ele = $(span).eq(i);
+    words = $ele.html();
+
+    $ele.html(words.replace(/([A-z0-9'@+-<>.,'"“”‘’?!*&/]+)/g, '<span>$&</span>'));
+  }
+
+  Menu.init();
+});    
+</script>
+
+</body>
+</html>

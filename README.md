@@ -38,6 +38,14 @@ CLAAT Document - https://docs.google.com/document/d/18zaAjqPpA-ewZaGBHoPhRu6nFrp
 
 CLAAT Preview Link - https://codelabs-preview.appspot.com/?file_id=18zaAjqPpA-ewZaGBHoPhRu6nFrp9PDiM-q-zhjWkNgM#0
 
+### Final Project Olist Marketing Analytics: RFM & Pursuasion Modeling, Customer Segmentation & Upselling, Targeted Recommendations
+
+
+CLAAT Document - https://docs.google.com/document/d/1BoSlam9Pp4LPUwb88HmeilAvCu6RH2-b8ECv4c8M0NM/edit#heading=h.ax8bqte2btx2
+
+CLAAT Preview Link - https://codelabs-preview.appspot.com/?file_id=1BoSlam9Pp4LPUwb88HmeilAvCu6RH2-b8ECv4c8M0NM#0
+
+
 
 
 
