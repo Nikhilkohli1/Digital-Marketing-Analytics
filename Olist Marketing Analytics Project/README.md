@@ -22,6 +22,8 @@ A Data Driven Algorithmic Marketing system for brazil’s biggest online marketp
 
 Marketing Analytics at Olist helps in measuring, managing and analyzing marketing performance to maximize its effectiveness and optimize ROI. Understanding Marketing analytics allows Olist to minimize wasted web marketing dollars by attributing budget to the targeted campaign, missed opportunities by not being able to show recommendations personalized as per the user's preferences. 
 
+![geo](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/Images/mapplot.png)
+
 ## Approach
 
 1. We started with EDA and Trend Analysis of Products and Customers to get insights for a business Analyst. 
@@ -30,8 +32,6 @@ Marketing Analytics at Olist helps in measuring, managing and analyzing marketin
 4. Predict Customer Lifetime value (LTV)
 5. Personalized Recommendations using Implicit feedback in the form of customer’s past purchases and Explicit feedback in the form of their Product Reviews. We have used Alternative Least Squares(ALS) and Doc2Vec for creating 2 different control groups to which Recommendations will be provided. A new user will see the popular recommendations, and using Segmentation, we will identify who are Big Spenders and will Upsell them using Highest rated product recommendations. 
 6. We have created 3 different personas for front end and presented the outcomes as a Marketing dashboard as well as a fully deployed Webapp.
-
-![EDA](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/Images/image10.png)
 
 ## Personas 
 
@@ -78,6 +78,7 @@ Recommender systems are algorithms aimed at suggesting relevant items to users (
 
 Recommender systems are really critical in some industries as they can generate a huge amount of income when they are efficient or also be a way to stand out significantly from competitors. As a proof of the importance of recommender systems, we can mention that, a few years ago, Netflix organised a challenge (the "Netflix prize") where the goal was to produce a recommender system that performs better than its own algorithm with a prize of 1 million dollars to win.
 
+![Reco](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/5.%20Recommendation%20System/Heroku1.PNG)
 
 We will be using below approach to Recommend products - 
  
@@ -98,6 +99,10 @@ We show Popular Products by current month for new customers.
 
 ## Dashboards - 
 
+
+![Social1](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/Images/streaming.png)
+
+![Social](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/Images/StreamDash3.PNG)
 
 
 
