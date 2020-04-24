@@ -7,7 +7,6 @@ Recommendation Webapp - https://olist-marketing-analytics.herokuapp.com/
 
 Marketing Dashboard - https://prod-useast-a.online.tableau.com/#/site/mohodhruda/views/OlistMarketingDashboard/Dashboard
 
-
 (Credentials to access Marketing Dashboard- 
 Username: mohod.h@husky.neu.edu
 Password : Tableau1!)
@@ -16,8 +15,10 @@ CLAAT Document - https://docs.google.com/document/d/1BoSlam9Pp4LPUwb88HmeilAvCu6
 
 CLAAT Preview Link - https://codelabs-preview.appspot.com/?file_id=1BoSlam9Pp4LPUwb88HmeilAvCu6RH2-b8ECv4c8M0NM#0
 
+## Olist Marketing Analytics 
 
 A Data Driven Algorithmic Marketing system for brazil’s biggest online marketplace Olist, to segment customers, RFM & Uplift Modeling, Identify Upselling and Cross Selling opportunities using Targeted Recommendations.
+![Olist](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/Images/marketing-analytics-featured-image-1.jpg)
 
 Marketing Analytics at Olist helps in measuring, managing and analyzing marketing performance to maximize its effectiveness and optimize ROI. Understanding Marketing analytics allows Olist to minimize wasted web marketing dollars by attributing budget to the targeted campaign, missed opportunities by not being able to show recommendations personalized as per the user's preferences. 
 
@@ -30,23 +31,27 @@ Marketing Analytics at Olist helps in measuring, managing and analyzing marketin
 5. Personalized Recommendations using Implicit feedback in the form of customer’s past purchases and Explicit feedback in the form of their Product Reviews. We have used Alternative Least Squares(ALS) and Doc2Vec for creating 2 different control groups to which Recommendations will be provided. A new user will see the popular recommendations, and using Segmentation, we will identify who are Big Spenders and will Upsell them using Highest rated product recommendations. 
 6. We have created 3 different personas for front end and presented the outcomes as a Marketing dashboard as well as a fully deployed Webapp.
 
+![EDA](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/Images/image10.png)
 
 ## Personas 
 
 1. Higher Management Executives - Marketing Dashboard
 • To get insights on a high level cohorts and Metrics for Revenue by Products, day of week and month. 
 • To look at overall Customer Segments to see the health of marketing.  
-
+![Dash1](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/Images/Dash%201.JPG)
 
 2. Marketing Data Scientist & Automated System:
 • To form promotion strategies based on Marketing Insights and Uplift
 • Recommend products to customers based on their liking along with any Upselling and Cross Selling opportunities
 • Optimize the Marketing Funnel to boost Revenue, offer Targeted Recommendations
+![Dash2](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/Images/StreamDash1.PNG)
+
 
 3. End Users or Potential Customers:
 • Explore products recommended by the system
 • Receive promotions based on their loyalty, demography
 • Explore Products which are similar to what they are about to buy or have purchased previously
+![Dash3](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/Images/Heroku2.PNG)
 
 ## Customer Segmentation and RFM Modeling 
 
@@ -64,6 +69,7 @@ Made some initial purchases but have not seen them since. Was it a bad customer 
 4. Lost Customers —
 Poorest performers of our RFM model. They might have gone with our competitors for now and will require a different activation strategy to
 
+![RFM](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/3.%20RFM%20Modeling%20%26%20Customer%20Segmentation/Segmentation.PNG)
 
 
 ## Recommendation Systems  
