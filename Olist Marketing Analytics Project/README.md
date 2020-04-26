@@ -4,6 +4,12 @@
 Olist Streamlit Analytics Dashboard - https://olist-streamlit-dashboard.herokuapp.com/
 
 Recommendation Webapp - https://olist-marketing-analytics.herokuapp.com/
+(Customer ID for Referene :
+41412 - Cross Selling (ALS Recommendation)
+30369 - Doc2Vec (Loyal Customer Segment)
+1000000 - Popular Recommendation (New Customer)
+28880 - Upselling Highest Rated (Big Spenders and VVIP)
+)
 
 Marketing Dashboard - https://prod-useast-a.online.tableau.com/#/site/mohodhruda/views/OlistMarketingDashboard/Dashboard
 
